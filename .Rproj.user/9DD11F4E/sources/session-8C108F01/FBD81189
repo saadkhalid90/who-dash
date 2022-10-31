@@ -1,7 +1,7 @@
 {
     "id": "FBD81189",
-    "path": "~/Desktop/R-Projects/WHO/preproc2.R",
-    "project_path": "preproc2.R",
+    "path": "~/Desktop/R-Projects/WHO/preproc2.r",
+    "project_path": "preproc2.r",
     "type": "r_source",
     "hash": "3941872526",
     "contents": "",
@@ -21,7 +21,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1667205158043,
+    "last_content_update": 1667205158,
     "read_only": false,
     "read_only_alternatives": []
 }

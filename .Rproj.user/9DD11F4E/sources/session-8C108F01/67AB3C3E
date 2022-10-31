@@ -1,7 +1,7 @@
 {
     "id": "67AB3C3E",
-    "path": "~/Desktop/R-Projects/WHO/preproc1.R",
-    "project_path": "preproc1.R",
+    "path": "~/Desktop/R-Projects/WHO/preproc1.r",
+    "project_path": "preproc1.r",
     "type": "r_source",
     "hash": "623823649",
     "contents": "",
@@ -21,7 +21,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1667131848286,
+    "last_content_update": 1667131848,
     "read_only": false,
     "read_only_alternatives": []
 }
