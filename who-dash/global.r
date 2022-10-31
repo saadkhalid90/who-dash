@@ -106,5 +106,15 @@ formattedSegments <- formattable(segments,
                                    seg7_name = seg7_formatter,
                                    seg8_name = seg8_formatter,
                                    seg9_name = seg9_formatter,
-                                   seg10_name = seg10_formatter
+                                   seg10_name = seg10_formatter,
+                                   log1 = FALSE,
+                                   log2 = FALSE,
+                                   log3 = FALSE,
+                                   log4 = FALSE,
+                                   log5 = FALSE,
+                                   log6 = FALSE,
+                                   log7 = FALSE,
+                                   log8 = FALSE,
+                                   log9 = FALSE,
+                                   log10 = FALSE
                                  ))
