@@ -15,7 +15,7 @@ preprocess_listing <- function(listing) {
       "submissions_id",
       "non_dwelling_type",
       "non_dwelling_other",
-      "remarks"
+      "remarks",
     )
   )
   
