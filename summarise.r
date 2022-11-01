@@ -1,6 +1,7 @@
 summary <- listing_filled %>%
   group_by(cluster_code, province_name, district, est_hh_who) %>%
   summarise(
+    start_date = first(start_time),
     n = n(),
     n_str = sum(str_stat),
     max_str = max(str_index, na.rm = T),
@@ -11,10 +12,11 @@ summary <- listing_filled %>%
     n_subs = (length(unique(id)))
   )
 
-summary$disc_hh <- round(summary$n_hh / summary$est_hh_who, 2)
 summary$cluster_code <- as.numeric(summary$cluster_code)
-
 summary_seg <- summary %>% left_join(segments_df)
+
+summary_seg$est_hh_eff <- ifelse(!is.na(summary_seg$seg_id), summary_seg$seg_count, summary$est_hh_who)
+summary_seg$disc_hh <- round(summary_seg$n_hh / summary_seg$est_hh_eff, 2)
 
 summary_seg <- summary_seg %>%
   select(
@@ -22,6 +24,7 @@ summary_seg <- summary_seg %>%
       "cluster_code",
       "province_name",
       "district",
+      "start_date",
       "n",
       "n_str",
       "max_str",

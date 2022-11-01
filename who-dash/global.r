@@ -77,7 +77,7 @@ seg10_formatter <- formatter("span",
                             ))
 
 ## read in the required data
-summary <- read_csv('Data/summary.csv', col_types = "icciiiiiiniii")
+summary <- read_csv('Data/summary.csv', col_types = "iccciiiiiiniii")
 listing <- read_csv('Data/listing.csv')
 segments <- read_csv('Data/segments.csv') %>% select(-c("id"))
 timeUpdated <- readRDS('timeUpdated.RDS')
@@ -91,7 +91,8 @@ formattedSummary <- formattable(
     n_str = str_formatter,
     max_str = str_formatter,
     disc_hh = disc_formatter,
-    n_non_dwelling = nd_formatter
+    n_non_dwelling = nd_formatter,
+    est_hh_eff = FALSE
   )
 )
 
