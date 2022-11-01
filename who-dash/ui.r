@@ -33,6 +33,7 @@ ui <- basicPage(
                   DT::dataTableOutput("summary"),
                   h3("Variable Key"),
                   tags$ol(
+                    tags$li(tags$b("days_taken"), " - Days taken to complete listing"),
                     tags$li(tags$b("n"), " - Total entries"),
                     tags$li(tags$b("n_str"), " - Total structures"),
                     tags$li(tags$b("max_str"), "- Maximum structure index"),
