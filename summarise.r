@@ -9,7 +9,8 @@ summary <- listing_filled %>%
     max_hh = max(hh_index, na.rm = T),
     n_dwelling = sum(unit == "Dwelling"),
     n_non_dwelling = sum(unit == "Non_Dwelling"),
-    n_subs = (length(unique(id)))
+    n_subs = (length(unique(id))),
+    review_state = first(review_state) 
   )
 
 summary$cluster_code <- as.numeric(summary$cluster_code)
@@ -37,7 +38,8 @@ summary_seg <- summary_seg %>%
       "n_subs",
       "seg_id",
       "seg_name",
-      "seg_count"
+      "seg_count",
+      "review_state"
     )
   )
 

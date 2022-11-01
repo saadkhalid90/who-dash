@@ -16,7 +16,8 @@ preprocess_summary <- function(listing_summary){
       "start_date",                                      
       "endtime",                                         
       "start_geopoint_longitude",                        
-      "start_geopoint_latitude"                         
+      "start_geopoint_latitude",
+      "system_review_state"
     )
   )
   
@@ -37,7 +38,8 @@ preprocess_summary <- function(listing_summary){
       "start_time",                                      
       "end_time",                                         
       "longitude",                        
-      "latitude"                         
+      "latitude",
+      "review_state"
     )
   
   trim_summary$start_time <- as.POSIXct(trim_summary$start_time)

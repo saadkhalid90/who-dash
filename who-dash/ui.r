@@ -62,6 +62,36 @@ ui <- basicPage(
                   DT::dataTableOutput("segments"),
                 )
               ),
+              tabPanel(
+                "Approved",
+                div(
+                  id = "segmentTableContain",
+                  style = "font-size: 90%",
+                  h2("Listing Summary", class = "table_header"),
+                  p("Progress across clusters", class = "table-desc"),
+                  DT::dataTableOutput("summary_app"),
+                )
+              ),
+              tabPanel(
+                "Rejected",
+                div(
+                  id = "segmentTableContain",
+                  style = "font-size: 90%",
+                  h2("Listing Summary", class = "table_header"),
+                  p("Progress across clusters", class = "table-desc"),
+                  DT::dataTableOutput("summary_rej"),
+                )
+              ),
+              tabPanel(
+                "Has Issues",
+                div(
+                  id = "segmentTableContain",
+                  style = "font-size: 90%",
+                  h2("Listing Summary", class = "table_header"),
+                  p("Progress across clusters", class = "table-desc"),
+                  DT::dataTableOutput("summary_hi"),
+                )
+              ),
               tabPanel("Listing Data", div(
                 h2("Download Processed Listing Data", class = "table_header"),
                 downloadButton('download', "Download listing data")

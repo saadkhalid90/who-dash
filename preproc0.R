@@ -33,7 +33,7 @@ list_st_pt <- listing_summary %>%
       "segment_select_segment_10_name",                  
       "segment_select_segment10_count",                  
       "segment_select_confirmation_segment_work",        
-      "segment_select_confirmation_starting_point"      
+      "segment_select_confirmation_starting_point" 
     )
   ) %>% 
   filter(need_segmention == 1) %>%
@@ -73,7 +73,7 @@ names(list_st_pt) <- c(
   "seg10_name",                  
   "seg10_count",                  
   "chosen_segment",        
-  "segment_starting_point"      
+  "segment_starting_point"
 )
 
 

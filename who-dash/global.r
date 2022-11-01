@@ -77,15 +77,56 @@ seg10_formatter <- formatter("span",
                             ))
 
 ## read in the required data
-summary <- read_csv('Data/summary.csv', col_types = "iccciiiiiiniii")
+summary <- read_csv('Data/summary.csv', col_types = "iccciiiiiiniiic")
 listing <- read_csv('Data/listing.csv')
 segments <- read_csv('Data/segments.csv') %>% select(-c("id"))
 timeUpdated <- readRDS('timeUpdated.RDS')
+
+## subsetted summary
+summary_app <- summary %>% filter(review_state == "approved")
+summary_rej <- summary %>% filter(review_state == "rejected")
+summary_hi <- summary %>% filter(review_state == "hasIssues")
 
 
 ## format the data
 formattedSummary <- formattable(
   summary,
+  list(
+    n_subs = osub_formatter,
+    n_str = str_formatter,
+    max_str = str_formatter,
+    disc_hh = disc_formatter,
+    n_non_dwelling = nd_formatter,
+    est_hh_eff = FALSE
+  )
+)
+
+formattedSummaryApp <- formattable(
+  summary_app,
+  list(
+    n_subs = osub_formatter,
+    n_str = str_formatter,
+    max_str = str_formatter,
+    disc_hh = disc_formatter,
+    n_non_dwelling = nd_formatter,
+    est_hh_eff = FALSE
+  )
+)
+
+formattedSummaryHi <- formattable(
+  summary_hi,
+  list(
+    n_subs = osub_formatter,
+    n_str = str_formatter,
+    max_str = str_formatter,
+    disc_hh = disc_formatter,
+    n_non_dwelling = nd_formatter,
+    est_hh_eff = FALSE
+  )
+)
+
+formattedSummaryRej <- formattable(
+  summary_rej,
   list(
     n_subs = osub_formatter,
     n_str = str_formatter,
