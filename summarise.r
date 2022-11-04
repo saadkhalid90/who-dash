@@ -1,9 +1,12 @@
+listing_filled$review_state[is.na(listing_filled$review_state)] <- "pending"
+
 summary <- listing_filled %>%
   group_by(cluster_code,
            province_name,
            district,
            enumerator_name,
-           est_hh_who) %>%
+           est_hh_who,
+           review_state) %>%
   summarise(
     start_date = first(start_time),
     days_taken = (as.Date(first(end_time)) - as.Date(first(start_time))) + 1,
@@ -14,8 +17,7 @@ summary <- listing_filled %>%
     max_hh = max(hh_index, na.rm = T),
     n_dwelling = sum(unit == "Dwelling"),
     n_non_dwelling = sum(unit == "Non_Dwelling"),
-    n_subs = (length(unique(id))),
-    review_state = first(review_state)
+    n_subs = (length(unique(id)))
   )
 
 summary$cluster_code <- as.numeric(summary$cluster_code)
@@ -66,3 +68,4 @@ write.csv(list_st_pt,
           "who-dash/Data/segments.csv",
           row.names = F,
           na = "")
+

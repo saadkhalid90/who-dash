@@ -75,7 +75,28 @@ server <- function(input, output) {
     )
   })
   
+  output$sample_long = DT::renderDataTable(
+    sample_long, options = list(
+      pageLength = 50,
+      buttons = c('csv', 'excel'),
+      dom = 'Bfrtip'
+    ),
+    filter = list(position = 'top', clear = FALSE),
+    extensions = 'Buttons',
+    callback = JS(buttonStyle)
+  )
   
+  output$sample_wide = DT::renderDataTable(
+    sample_wide, options = list(
+      pageLength = 50,
+      buttons = c('csv', 'excel'),
+      dom = 'Bfrtip'
+    ),
+    filter = list(position = 'top', clear = FALSE),
+    extensions = 'Buttons',
+    callback = JS(buttonStyle)
+  )
+
   output$download <- downloadHandler(
     filename = function() {
       "data.csv"

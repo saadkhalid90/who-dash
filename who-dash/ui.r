@@ -93,6 +93,19 @@ ui <- basicPage(
                   DT::dataTableOutput("summary_hi"),
                 )
               ),
+              tabPanel(
+                "Sample",
+                div(
+                  id = "segmentTableContain",
+                  style = "font-size: 90%",
+                  h2("Sample", class = "table_header"),
+                  p("Sampled Households", class = "table-desc"),
+                  p("Long format", class = "table-desc"),
+                  DT::dataTableOutput("sample_long"),
+                  p("Wide format (Just indexes)", class = "table-desc"),
+                  DT::dataTableOutput("sample_wide")
+                )
+              ),
               tabPanel("Listing Data", div(
                 h2("Download Processed Listing Data", class = "table_header"),
                 downloadButton('download', "Download listing data")

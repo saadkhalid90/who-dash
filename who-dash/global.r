@@ -82,6 +82,9 @@ listing <- read_csv('Data/listing.csv')
 segments <- read_csv('Data/segments.csv') %>% select(-c("id"))
 timeUpdated <- readRDS('timeUpdated.RDS')
 
+sample_wide <- read_csv('Data/sample-wide.csv', col_types = "iiiiiiii")
+sample_long <- read_csv('Data/sample-long.csv', col_types = "iccicc")
+
 ## subsetted summary
 summary_app <- summary %>% filter(review_state == "approved")
 summary_rej <- summary %>% filter(review_state == "rejected")

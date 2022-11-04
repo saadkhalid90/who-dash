@@ -1,268 +1,667 @@
 "cluster_code","province_name","district","enumerator_name","start_date","days_taken","n","n_str","max_str","n_hh","max_hh","est_hh_who","disc_hh","n_dwelling","n_non_dwelling","n_subs","seg_id","seg_name","seg_count","review_state"
-1,"AJK","Bhimber","Arbab khurshid bhimber",2022-10-29 10:29:01,2,212,209,209,170,170,408,0.42,173,39,1,,,,
+1,"AJK","Bhimber","Arbab khurshid bhimber",2022-10-29 10:29:01,2,212,209,209,170,170,408,0.42,173,39,1,,,,"approved"
 100,"AJK","Bagh","Syed khurram abbas",2022-10-29 11:22:04,2,249,234,234,233,233,245,0.95,237,12,1,,,,"approved"
-101,"AJK","Bagh","Syed khurram abbas",2022-10-31 08:32:00,2,361,358,358,337,337,359,0.94,340,21,1,,,,
+101,"AJK","Bagh","Syed khurram abbas",2022-10-31 08:32:00,2,361,358,358,337,337,359,0.94,340,21,1,,,,"approved"
+104,"AJK","Bagh","Syed inzmam gardezi",2022-11-03 08:38:33,1,85,68,68,78,79,75,1.04,78,7,1,,,,"pending"
+108,"AJK","Bagh","Syed inzmam gardezi",2022-11-02 08:35:49,1,135,117,117,126,126,125,1.01,126,9,1,,,,"approved"
 110,"AJK","Haveli","Ayaz Ahmed Rathore",2022-10-30 11:54:54,2,207,207,207,199,199,180,1.11,199,8,1,,,,"approved"
-111,"AJK","Haveli","Muhammad Asif",2022-10-29 09:18:20,1,85,85,85,78,78,85,0.92,78,7,1,,,,
-113,"AJK","Haveli","Ayaz Ahmed Rathore",2022-10-29 09:52:07,2,204,204,204,186,186,189,0.98,188,16,1,,,,
-116,"AJK","Haveli","Muhammad Asif Haveli AJK",2022-10-30 09:15:15,2,158,158,158,154,154,151,1.02,154,4,1,,,,
-128,"AJK","Poonch","Shoaib Aslam poonch",2022-10-30 18:41:32,1,211,206,206,206,206,463,0.44,207,4,1,,,,
-130,"AJK","Poonch","Shoaib Aslam poonch",2022-10-29 12:14:22,2,268,223,223,214,214,486,0.44,220,48,1,,,,
+111,"AJK","Haveli","Muhammad Asif",2022-10-29 09:18:20,1,85,85,85,78,78,85,0.92,78,7,1,,,,"approved"
+112,"AJK","Haveli","Ayaz Ahmed Rathore Haveli AJK",2022-11-02 18:13:06,2,181,181,181,170,170,167,1.02,171,10,1,,,,"pending"
+113,"AJK","Haveli","Ayaz Ahmed Rathore",2022-10-29 09:52:07,2,204,204,204,186,186,189,0.98,188,16,1,,,,"approved"
+114,"AJK","Haveli","Ayaz Ahmed Rathore Haveli AJK",2022-11-01 07:15:43,1,52,52,52,49,49,35,1.4,50,2,1,,,,"approved"
+115,"AJK","Haveli","Muhammad Asif Haveli AJK",2022-11-01 09:08:58,3,303,303,303,282,282,275,1.03,282,21,1,,,,"pending"
+116,"AJK","Haveli","Muhammad Asif Haveli AJK",2022-10-30 09:15:15,2,158,158,158,154,154,151,1.02,154,4,1,,,,"approved"
+121,"AJK","Poonch","Shoaib Aslam poonch",2022-11-03 08:17:11,1,169,166,166,150,150,473,0.32,153,16,1,,,,"pending"
+125,"AJK","Poonch","Shoaib Aslam poonch",2022-11-02 09:15:34,1,165,164,164,150,150,521,50,151,14,1,2,"Check 3",3,"pending"
+126,"AJK","Poonch","amer hameed poonch",2022-11-03 09:39:50,1,190,189,189,179,179,445,0.4,179,11,1,,,,"pending"
+128,"AJK","Poonch","Shoaib Aslam poonch",2022-10-30 18:41:32,1,211,206,206,206,206,463,0.44,207,4,1,,,,"approved"
+129,"AJK","Poonch","Shoaib Aslam poonch",2022-11-01 15:34:57,1,165,157,157,152,152,413,0.37,153,12,1,,,,"pending"
+130,"AJK","Poonch","Shoaib Aslam poonch",2022-10-29 12:14:22,2,268,223,223,214,214,486,0.44,220,48,1,,,,"pending"
 131,"AJK","Poonch","amer hameed poonch",2022-10-30 19:05:13,1,121,114,114,121,121,486,0.25,121,0,1,,,,"hasIssues"
-132,"AJK","Poonch","amer hameed poonch",2022-10-29 17:11:11,1,82,64,64,82,82,506,0.16,82,0,1,,,,
-133,"AJK","Poonch","Shoaib Aslam poonch",2022-10-31 10:38:57,1,90,89,89,82,82,410,0.2,83,7,1,,,,
-134,"AJK","Poonch","amer hameed poonch",2022-11-01 05:51:27,1,157,155,155,150,150,442,0.34,150,7,1,,,,
-136,"AJK","Sudhnooti","Ubaid Imtiaz Sudhnoti",2022-10-29 14:07:17,2,242,240,240,242,242,344,0.7,242,0,1,,,,
-140,"AJK","Sudhnooti","Fawad Shoukat",2022-10-29 11:26:26,2,209,208,208,199,199,185,1.08,199,10,1,,,,
-149,"Balochistan","KALAT","sana ullah kalat",2022-10-31 11:12:29,2,186,173,173,179,180,177,1.01,179,7,1,,,,
-151,"Balochistan","KALAT","Misbah urrehman shah kalat",2022-10-31 11:12:19,2,187,181,181,158,158,157,1.01,160,27,1,,,,
-154,"Balochistan","Khuzdar","Mansoor Ahmed Khuzdar",2022-10-31 15:25:46,1,83,82,82,83,83,81,1.02,83,0,1,,,,
-155,"Balochistan","Khuzdar","Mansoor Ahmed Khuzdar ",2022-11-01 14:46:27,1,25,25,25,23,23,21,1.1,23,2,1,,,,
-159,"Balochistan","Khuzdar","Abdul karim Khuzdar",2022-10-31 16:29:54,2,178,176,176,177,177,177,1,177,1,1,,,,
-16,"AJK","Kotli","Qasim Liaqat Kotli",2022-10-31 11:56:46,1,151,151,151,146,146,148,0.99,146,5,1,,,,
-186,"Balochistan","Mastung","Abdul wahid",2022-10-31 16:30:24,1,85,85,85,85,85,84,1.01,85,0,1,,,,
-187,"Balochistan","Mastung","mohammad waris mastung",2022-10-30 12:28:34,1,52,52,52,52,52,53,0.98,52,0,1,,,,
-19,"AJK","Kotli","Qasim Liaqat Kotli",2022-10-29 16:57:43,2,288,287,287,288,288,2598,1,288,0,1,1,"A",288,
-2,"AJK","Bhimber","abdulrehman",2022-10-29 11:07:45,1,147,136,136,144,144,146,0.99,145,2,1,,,,
-20,"AJK","Kotli","Usman Mushtaq Kotli",2022-10-29 11:01:48,1,201,152,152,191,191,191,1,191,10,1,,,,
-21,"AJK","Kotli","Usman Mushtaq Kotli",2022-10-30 16:42:04,1,161,154,154,157,157,157,1,157,4,1,,,,
-243,"Balochistan","Bolan","Muhammad Naeem",2022-10-31 11:56:34,1,102,50,50,101,101,167,0.6,101,1,1,,,,
-244,"Balochistan","Bolan","Sanaullah",2022-10-31 13:40:34,1,8,8,4,8,4,170,0.05,8,0,5,,,,
-244,"Balochistan","Bolan","Sanaullah ",2022-10-31 19:29:18,1,99,86,61,99,74,170,0.58,99,0,26,,,,
-25,"AJK","Kotli","Usman Mushtaq Kotli",2022-10-31 12:29:00,1,146,96,96,138,138,138,1,138,8,1,,,,
-271,"Balochistan","Naseerabad","Imran Hussain",2022-10-31 09:49:34,1,99,85,85,99,99,100,0.99,99,0,1,,,,
-272,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-10-31 11:45:14,1,58,45,45,58,58,56,1.04,58,0,1,,,,
-276,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-10-31 09:44:24,1,48,41,41,48,48,45,1.07,48,0,1,,,,
-284,"Balochistan","Sohbatpur","Abid ali  Sohbatpur",2022-10-31 09:08:02,1,121,121,121,121,121,84,1.44,121,0,1,,,,
-285,"Balochistan","Sohbatpur","Imtiaz Hussain Sohbatpur",2022-10-30 16:24:30,1,109,108,108,109,109,109,1,109,0,1,,,,
-286,"Balochistan","Sohbatpur","Abid ali  Sohbatpur",2022-10-30 17:33:30,1,116,113,113,116,116,115,1.01,116,0,1,,,,
-287,"Balochistan","Sohbatpur","Imtiaz Hussain Sohbatpur",2022-10-31 14:54:23,1,30,30,30,30,30,6,5,30,0,1,,,,
-288,"Balochistan","Sohbatpur","Imtiaz Hussain Sohbatpur",2022-10-31 09:33:25,1,111,111,111,111,111,100,1.11,111,0,1,,,,
-298,"Balochistan","Pishin","M.Naseem Ali",2022-10-30 10:13:37,1,24,0,0,23,23,19,0.96,23,1,1,1,"Naseem",24,
-298,"Balochistan","Pishin","shoaib khan (pishin)",2022-10-30 17:29:31,1,23,21,21,21,21,19,0.88,21,2,1,1,"Naseem",24,
-3,"AJK","Bhimber","Arbab khurshid bhimber",2022-10-30 15:01:14,3,375,354,354,279,279,388,0.72,289,86,1,,,,
-301,"Balochistan","Quetta","Mohammed Rahim Quetta",2022-10-31 18:22:06,1,251,251,251,212,212,310,0.68,226,25,1,,,,
-302,"Balochistan","Quetta","Gul badin",2022-10-30 11:45:54,2,175,174,174,175,175,682,0.26,175,0,1,,,,
-306,"Balochistan","Quetta","muzzamil",2022-10-31 11:06:51,1,27,27,27,25,25,9,2.78,26,1,1,,,,
-307,"Balochistan","Quetta","muzzamil",2022-10-31 15:49:54,1,33,33,33,30,30,12,2.5,31,2,1,,,,
-313,"Balochistan","Quetta","mujeeb ur rehman",2022-10-31 10:41:10,1,111,111,111,111,111,105,1.06,111,0,1,,,,
-32,"AJK","Mirpur","Jawad Latif  Mirpur AJK",2022-10-30 20:23:53,2,335,314,314,264,264,314,0.84,272,63,1,,,,
-325,"Balochistan","Quetta","Usama Bin Amir_Quetta",2022-10-31 12:34:48,1,103,70,70,94,94,140,0.67,94,9,1,,,,
-343,"Balochistan","Chagai","Muhammad Tuyyab",2022-10-30 15:48:05,2,110,3,3,109,109,104,1.05,109,1,1,,,,
-344,"Balochistan","Chagai","Ahmed bux Distt chaghi",2022-10-30 17:34:27,2,95,95,95,90,90,88,1.02,90,5,1,,,,
-345,"Balochistan","Chagai","Muhammad Tuyyab",2022-10-31 14:26:09,1,52,49,49,52,52,49,1.06,52,0,1,,,,
-346,"Balochistan","Chagai","Ahmed bux Distt chaghi",2022-10-30 19:49:58,2,95,95,95,95,95,84,1.13,95,0,1,,,,
-348,"Balochistan","Chagai","Ahmed bux Distt chaghi",2022-10-31 23:10:28,2,49,1,1,49,49,48,1.02,49,0,1,,,,
-35,"AJK","Mirpur","Hamza Nawaz Mirpur AJK",2022-10-31 10:19:07,1,227,197,197,158,158,158,1,178,49,1,,,,
-352,"Balochistan","Kharan","Zamrud Ali kharan",2022-10-31 11:10:04,1,67,49,38,58,50,158,0.37,58,9,12,,,,
-354,"Balochistan","Kharan","Zamrud Ali kharan",2022-10-31 17:19:36,1,127,83,83,112,112,268,0.42,112,15,1,,,,
-355,"Balochistan","Kharan","Salman Khan kharan",2022-10-31 17:52:33,1,137,99,99,126,126,153,0.82,126,11,1,,,,
-36,"AJK","Mirpur","Jawad Latif  Mirpur AJK",2022-10-31 13:18:04,2,229,215,215,198,198,362,0.55,203,26,1,,,,
-361,"Balochistan","Kharan","Zamrud Ali kharan",2022-11-01 09:26:20,1,150,94,94,128,128,104,1.23,128,22,1,,,,
-370,"Balochistan","NUSHKI","Salman khan nushki",2022-10-31 12:21:57,1,108,67,67,102,102,105,0.97,102,6,1,,,,
-371,"Balochistan","NUSHKI","Salman khan nushki",2022-11-01 10:37:00,1,109,77,77,89,89,108,0.82,89,20,1,,,,
-39,"AJK","Mirpur","Hamaza Nawaz Mirpur Azad kashmir",2022-10-30 17:12:49,2,474,396,396,434,434,428,1.01,445,29,1,,,,"rejected"
+132,"AJK","Poonch","amer hameed poonch",2022-10-29 17:11:11,1,82,64,64,82,82,506,0.16,82,0,1,,,,"pending"
+133,"AJK","Poonch","Shoaib Aslam poonch",2022-10-31 10:38:57,1,90,89,89,82,82,410,0.2,83,7,1,,,,"approved"
+134,"AJK","Poonch","amer hameed poonch",2022-11-01 05:51:27,1,157,155,155,150,150,442,0.34,150,7,1,,,,"approved"
+135,"AJK","Poonch","amer hameed poonch",2022-11-02 06:06:46,1,122,121,121,118,118,592,0.41,118,4,1,1,"A",286,"pending"
+136,"AJK","Sudhnooti","Ubaid Imtiaz Sudhnoti",2022-10-29 14:07:17,2,242,240,240,242,242,344,0.7,242,0,1,,,,"approved"
+137,"AJK","Sudhnooti","Ubaid Imtiaz Sudhnoti",2022-10-31 11:02:00,2,212,212,212,211,211,264,0.8,211,1,1,,,,"approved"
+138,"AJK","Sudhnooti","Ubaid Imtiaz Sudhnoti",2022-11-02 12:14:31,2,266,266,266,266,266,441,0.6,266,0,1,,,,"pending"
+140,"AJK","Sudhnooti","Fawad Shoukat",2022-10-29 11:26:26,2,209,208,208,199,199,185,1.08,199,10,1,,,,"approved"
+141,"AJK","Sudhnooti","Fawad Shoukat",2022-10-31 10:35:21,2,252,200,200,234,234,445,0.53,235,17,1,,,,"approved"
+142,"AJK","Sudhnooti","Fawad Shoukat",2022-11-02 11:20:13,2,232,194,194,207,207,781,0.8,207,25,1,1,"upr Bahita pallandri",260,"pending"
+148,"Balochistan","KALAT","sana ullah kalat",2022-11-03 13:00:27,2,135,134,134,125,125,113,1.11,125,10,1,,,,"pending"
+149,"Balochistan","KALAT","sana ullah kalat",2022-10-31 11:12:29,2,186,173,173,179,180,177,1.01,179,7,1,,,,"pending"
+15,"AJK","Kotli","Usman Mushtaq Kotli",2022-11-04 13:34:33,1,156,155,155,114,114,102,1.12,114,42,1,,,,"pending"
+151,"Balochistan","KALAT","Misbah urrehman shah kalat",2022-10-31 11:12:19,2,187,181,181,158,158,157,1.01,160,27,1,,,,"pending"
+152,"Balochistan","KALAT","sana ullah kalat",2022-11-02 10:47:31,2,128,127,127,120,120,118,1.02,120,8,1,,,,"pending"
+153,"Balochistan","KALAT","Misbah urrehman shah kalat",2022-11-02 12:21:42,2,146,121,121,122,122,149,0.82,122,24,1,,,,"pending"
+154,"Balochistan","Khuzdar","Mansoor Ahmed Khuzdar",2022-10-31 15:25:46,1,83,82,82,83,83,81,1.02,83,0,1,,,,"approved"
+155,"Balochistan","Khuzdar","Mansoor Ahmed Khuzdar ",2022-11-01 14:46:27,1,25,25,25,23,23,21,1.1,23,2,1,,,,"approved"
+156,"Balochistan","Khuzdar","Ehsanullah khuzdar",2022-11-01 15:31:09,1,173,164,164,165,165,165,1,165,8,1,,,,"pending"
+157,"Balochistan","Khuzdar","aftab ahmed khuzdar",2022-10-31 10:07:09,3,198,195,195,191,191,193,0.99,191,7,1,,,,"pending"
+159,"Balochistan","Khuzdar","Abdul karim Khuzdar",2022-10-31 16:29:54,2,178,176,176,177,177,177,1,177,1,1,,,,"approved"
+16,"AJK","Kotli","Qasim Liaqat Kotli",2022-10-31 11:56:46,1,151,151,151,146,146,148,0.99,146,5,1,,,,"approved"
+160,"Balochistan","Khuzdar","Abdul karim Khuzdar",2022-11-02 13:41:14,2,170,146,146,151,151,150,1.01,151,19,1,,,,"pending"
+164,"Balochistan","Khuzdar","Ehsanullah khuzdar",2022-11-02 15:42:25,1,114,113,113,95,95,94,1.01,95,19,1,,,,"pending"
+165,"Balochistan","Khuzdar","aftab ahmed khuzdar",2022-11-03 22:34:06,2,175,140,140,153,154,138,1.11,153,22,1,,,,"pending"
+167,"Balochistan","Khuzdar","Mansoor Ahmed Khuzdar ",2022-11-02 17:36:17,1,51,50,50,45,45,43,1.05,45,6,1,,,,"pending"
+168,"Balochistan","Khuzdar","Mansoor Ahmed Khuzdar",2022-11-04 21:27:19,1,90,87,87,65,66,191,0.34,65,25,1,,,,"pending"
+169,"Balochistan","Khuzdar","Mansoor Ahmed Khuzdar",2022-11-03 14:39:25,1,109,103,103,86,86,86,1,86,23,1,,,,"pending"
+17,"AJK","Kotli","Qasim Liaqat Kotli",2022-11-01 18:45:23,1,151,150,150,146,146,146,1,146,5,1,,,,"approved"
+18,"AJK","Kotli","Qasim Liaqat Kotli",2022-11-02 18:54:09,1,99,84,84,91,91,146,0.62,91,8,1,,,,"pending"
+186,"Balochistan","Mastung","Abdul wahid",2022-10-31 16:30:24,1,85,85,85,85,85,84,1.01,85,0,1,,,,"approved"
+187,"Balochistan","Mastung","mohammad waris mastung",2022-10-30 12:28:34,1,52,52,52,52,52,53,0.98,52,0,1,,,,"approved"
+19,"AJK","Kotli","Qasim Liaqat Kotli",2022-10-29 16:57:43,2,288,287,287,288,288,2598,1,288,0,1,1,"A",288,"approved"
+193,"Balochistan","Gwadar","Nisar lister Gwadar District",2022-11-01 09:30:45,1,148,3,3,126,126,124,1.02,126,22,1,,,,"pending"
+194,"Balochistan","Gwadar","Naeem Lister Gwadar District",2022-11-01 09:08:48,1,181,3,3,137,137,134,1.02,147,34,1,,,,"pending"
+2,"AJK","Bhimber","abdulrehman",2022-10-29 11:07:45,1,147,136,136,144,144,146,0.99,145,2,1,,,,"approved"
+20,"AJK","Kotli","Usman Mushtaq Kotli",2022-10-29 11:01:48,1,201,152,152,191,191,191,1,191,10,1,,,,"approved"
+201,"Balochistan","Gwadar","Nisar lister Gwadar District ",2022-11-02 09:59:31,1,161,11,11,149,149,145,1.03,151,10,1,,,,"pending"
+202,"Balochistan","Gwadar","Naeem Lister Gwadar District ",2022-11-02 09:45:50,1,184,37,37,156,156,155,1.01,163,21,1,,,,"approved"
+21,"AJK","Kotli","Usman Mushtaq Kotli",2022-10-30 16:42:04,1,161,154,154,157,157,157,1,157,4,1,,,,"approved"
+225,"Balochistan","Kech","Mohammad asghar turbat kech",2022-11-02 11:30:39,1,98,51,51,92,92,98,0.94,94,4,1,,,,"pending"
+226,"Balochistan","Kech","nabeel",2022-11-02 11:11:01,3,118,116,116,118,118,118,1,118,0,1,,,,"pending"
+229,"Balochistan","Kech","nabeel",2022-11-04 11:29:43,1,23,22,22,23,23,44,0.52,23,0,1,,,,"pending"
+230,"Balochistan","Kech","Chakar Khan turbat kech",2022-11-02 10:46:48,1,64,63,63,64,64,64,1,64,0,1,,,,"pending"
+231,"Balochistan","Kech","Rahmdil kech turbat",2022-11-02 13:07:07,1,49,47,47,49,49,49,1,49,0,1,,,,"pending"
+234,"Balochistan","Kech","Rahmdil kech turbat",2022-11-03 17:18:39,1,75,48,48,75,75,75,1,75,0,1,,,,"pending"
+238,"Balochistan","Panjgur","waqar ahmed district panjgur",2022-11-02 09:49:46,1,136,135,135,124,124,50,2.48,127,9,1,,,,"pending"
+240,"Balochistan","Panjgur","Abid Hussain ",2022-11-03 10:03:21,1,93,90,90,88,88,68,1.29,90,3,1,,,,"pending"
+241,"Balochistan","Bolan","Muhammad Naeem",2022-11-02 09:54:19,2,175,140,140,141,141,149,0.95,142,33,1,,,,"approved"
+242,"Balochistan","Bolan","Sanaullah",2022-11-02 12:56:31,2,179,167,167,161,161,167,0.96,161,18,1,,,,"approved"
+243,"Balochistan","Bolan","Muhammad Naeem",2022-10-31 11:56:34,1,102,50,50,101,101,167,0.6,101,1,1,,,,"approved"
+244,"Balochistan","Bolan","Sanaullah",2022-10-31 13:40:34,1,8,8,4,8,4,170,0.05,8,0,5,,,,"rejected"
+244,"Balochistan","Bolan","Sanaullah ",2022-10-31 19:29:18,1,74,61,61,74,74,170,0.44,74,0,1,,,,"hasIssues"
+244,"Balochistan","Bolan","Sanaullah ",2022-10-31 12:44:02,1,25,25,1,25,1,170,0.15,25,0,25,,,,"rejected"
+245,"Balochistan","Bolan","Muhammad Naeem",2022-11-01 08:18:31,1,63,60,60,55,55,48,1.15,55,8,1,,,,"approved"
+246,"Balochistan","Bolan","Sanaullah",2022-11-01 12:02:25,1,74,71,71,70,70,59,1.19,70,4,1,,,,"approved"
+25,"AJK","Kotli","Usman Mushtaq Kotli",2022-10-31 12:29:00,1,146,96,96,138,138,138,1,138,8,1,,,,"approved"
+264,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-11-04 10:36:40,1,101,71,71,79,79,71,1.11,79,22,1,,,,"pending"
+265,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-11-01 10:29:31,1,184,161,161,126,126,123,1.02,126,58,1,,,,"approved"
+266,"Balochistan","Naseerabad","Imran Hussain",2022-11-04 11:19:31,1,112,88,88,86,86,79,1.09,86,26,1,,,,"pending"
+267,"Balochistan","Naseerabad","Imran Hussain",2022-11-04 16:00:44,1,74,43,43,61,61,50,1.22,61,13,1,,,,"pending"
+269,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-11-04 15:19:43,1,94,79,79,66,66,63,1.05,66,28,1,,,,"pending"
+27,"AJK","Kotli","Usman Mushtaq Kotli",2022-11-01 15:16:48,1,141,105,105,132,132,131,1.01,132,9,1,,,,"pending"
+270,"Balochistan","Naseerabad","Imran Hussain",2022-11-01 10:24:36,1,145,114,114,129,129,125,1.03,129,16,1,,,,"approved"
+271,"Balochistan","Naseerabad","Imran Hussain",2022-10-31 09:49:34,1,99,85,85,99,99,100,0.99,99,0,1,,,,"approved"
+272,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-10-31 11:45:14,1,58,45,45,58,58,56,1.04,58,0,1,,,,"approved"
+273,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-11-02 13:58:30,1,88,76,76,74,74,42,1.76,76,12,1,,,,"approved"
+275,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-11-02 10:09:33,1,60,37,37,53,53,51,1.04,54,6,1,,,,"approved"
+276,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-10-31 09:44:24,1,48,41,41,48,48,45,1.07,48,0,1,,,,"approved"
+277,"Balochistan","Naseerabad","Imran Hussain",2022-11-02 14:14:59,1,86,60,60,55,55,45,1.22,55,31,1,,,,"pending"
+278,"Balochistan","Naseerabad","Imran Hussain",2022-11-02 09:57:08,1,55,42,42,45,45,42,1.07,45,10,1,,,,"approved"
+279,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-11-03 10:33:53,1,97,79,79,71,71,61,1.16,71,26,1,,,,"approved"
+28,"AJK","Kotli","Usman Mushtaq Kotli",2022-11-02 16:43:55,2,176,143,143,148,148,190,0.78,148,28,1,,,,"pending"
+280,"Balochistan","Naseerabad","Kashif Ali Naseerabad",2022-11-03 15:28:56,1,80,59,59,65,65,66,0.98,65,15,1,,,,"approved"
+282,"Balochistan","Naseerabad","Imran Hussain",2022-11-03 15:30:07,1,91,57,57,80,80,65,1.23,80,11,1,,,,"approved"
+283,"Balochistan","Naseerabad","Imran Hussain",2022-11-03 10:29:35,1,92,74,74,78,78,69,1.13,78,14,1,,,,"approved"
+284,"Balochistan","Sohbatpur","Abid ali  Sohbatpur",2022-10-31 09:08:02,1,121,121,121,121,121,84,1.44,121,0,1,,,,"approved"
+285,"Balochistan","Sohbatpur","Imtiaz Hussain Sohbatpur",2022-10-30 16:24:30,1,109,108,108,109,109,109,1,109,0,1,,,,"approved"
+286,"Balochistan","Sohbatpur","Abid ali  Sohbatpur",2022-10-30 17:33:30,1,116,113,113,116,116,115,1.01,116,0,1,,,,"pending"
+287,"Balochistan","Sohbatpur","Imtiaz Hussain Sohbatpur",2022-10-31 14:54:23,1,30,30,30,30,30,6,5,30,0,1,,,,"approved"
+288,"Balochistan","Sohbatpur","Imtiaz Hussain Sohbatpur",2022-10-31 09:33:25,1,111,111,111,111,111,100,1.11,111,0,1,,,,"approved"
+297,"Balochistan","Killa Abdullah","shoaib khan (pishin)",2022-11-03 18:57:07,1,77,74,43,71,41,67,2.22,71,6,2,2,"Akhtar qasab",32,"pending"
+298,"Balochistan","Pishin","M.Naseem Ali",2022-10-30 10:13:37,1,24,0,0,23,23,19,0.96,23,1,1,1,"Naseem",24,"pending"
+298,"Balochistan","Pishin","shoaib khan (pishin)",2022-10-30 17:29:31,1,23,21,21,21,21,19,0.88,21,2,1,1,"Naseem",24,"pending"
+299,"Balochistan","Quetta","mujeeb ur rehman",2022-11-02 10:42:19,2,215,215,215,193,193,192,1.01,193,22,1,,,,"pending"
+3,"AJK","Bhimber","Arbab khurshid bhimber",2022-10-30 15:01:14,3,375,354,354,279,279,388,0.72,289,86,1,,,,"approved"
+30,"AJK","Kotli","Qasim Liaqat Kotli",2022-11-03 08:04:06,2,137,110,110,95,95,90,1.06,98,39,1,,,,"pending"
+301,"Balochistan","Quetta","Mohammed Rahim Quetta",2022-10-31 18:22:06,1,251,251,251,212,212,310,0.68,226,25,1,,,,"pending"
+302,"Balochistan","Quetta","Gul badin",2022-10-30 11:45:54,2,175,174,174,175,175,682,0.26,175,0,1,,,,"pending"
+302,"Balochistan","Quetta","Mohammed Rahim Quetta",2022-11-01 15:03:12,1,248,248,248,226,226,682,0.33,235,13,1,,,,"pending"
+303,"Balochistan","Quetta","Mohammed Rahim Quetta",2022-11-03 15:51:12,1,413,413,413,333,333,462,0.72,374,39,1,,,,"pending"
+304,"Balochistan","Quetta","Mohammed Rahim Quetta",2022-11-04 16:25:34,1,28,28,28,26,26,28,0.93,27,1,1,,,,"pending"
+305,"Balochistan","Quetta","Barkat Ali Quetta",2022-10-31 17:27:40,2,250,1,1,195,195,274,0.71,195,55,1,,,,"pending"
+306,"Balochistan","Quetta","muzzamil",2022-10-31 11:06:51,1,27,27,27,25,25,9,2.78,26,1,1,,,,"pending"
+307,"Balochistan","Quetta","muzzamil",2022-10-31 15:49:54,1,33,33,33,30,30,12,2.5,31,2,1,,,,"pending"
+308,"Balochistan","Quetta","muzzamil",2022-11-01 10:35:38,1,170,169,169,162,162,155,1.05,164,6,1,,,,"pending"
+309,"Balochistan","Quetta","mujeeb ur rehman",2022-11-01 10:40:50,1,216,212,212,185,185,186,0.99,185,31,1,,,,"pending"
+31,"AJK","Mirpur","Hamza Nawaz Mirpur AJK",2022-11-03 09:02:08,2,469,376,376,351,351,351,1,403,66,1,,,,"approved"
+310,"Balochistan","Quetta","muzzamil",2022-11-02 10:28:19,1,264,261,261,255,256,254,1,255,9,1,,,,"pending"
+313,"Balochistan","Quetta","mujeeb ur rehman",2022-10-31 10:41:10,1,111,111,111,111,111,105,1.06,111,0,1,,,,"pending"
+314,"Balochistan","Quetta","mujeeb ur rehman",2022-11-04 15:04:11,1,83,83,83,76,76,75,1.01,76,7,1,,,,"pending"
+32,"AJK","Mirpur","Jawad Latif  Mirpur AJK",2022-10-30 20:23:53,2,335,314,314,264,264,314,0.84,272,63,1,,,,"pending"
+321,"Balochistan","Quetta","Barkat Ali Quetta",2022-11-01 17:21:34,1,250,244,244,194,194,320,0.61,194,56,1,,,,"pending"
+322,"Balochistan","Quetta","Barkat Ali Quetta",2022-11-03 14:37:16,1,323,322,322,250,250,324,0.77,250,73,1,,,,"pending"
+323,"Balochistan","Quetta","Barkat Ali Quetta",2022-11-04 18:08:14,1,197,187,187,160,160,196,0.82,160,37,1,,,,"pending"
+325,"Balochistan","Quetta","Usama Bin Amir_Quetta",2022-10-31 12:34:48,1,103,70,70,94,94,140,0.67,94,9,1,,,,"pending"
+326,"Balochistan","Quetta","Mohammad iqbal",2022-10-31 17:44:00,1,60,60,60,57,57,48,1.19,57,3,1,,,,"pending"
+327,"Balochistan","Quetta","Usama Bin Amir_Quetta",2022-11-01 17:06:49,1,249,243,243,242,242,248,0.98,242,7,1,,,,"pending"
+328,"Balochistan","Quetta","Mohammad iqbal",2022-11-01 18:17:25,1,240,240,240,236,236,244,0.97,236,4,1,,,,"pending"
+33,"AJK","Mirpur","Hamza Nawaz Mirpur AJK",2022-11-01 12:02:59,2,498,433,433,316,316,316,1,364,134,1,,,,"pending"
+330,"Balochistan","Quetta","Mohammad iqbal",2022-11-03 16:00:54,1,348,347,347,348,348,347,1,348,0,1,,,,"pending"
+331,"Balochistan","Quetta","usama bin amir quetta",2022-11-03 19:03:52,1,348,348,348,348,348,347,1,348,0,1,,,,"pending"
+332,"Balochistan","Quetta","Usama Bin Amir_Quetta",2022-11-04 19:45:58,1,266,265,265,266,266,265,1,266,0,1,,,,"pending"
+337,"Balochistan","Chagai","Muhammad Tuyyab",2022-11-04 18:20:17,1,32,32,32,29,29,25,1.16,29,3,1,,,,"pending"
+34,"AJK","Mirpur","Jawad Latif  Mirpur AJK ",2022-11-01 13:05:43,1,140,131,131,106,106,106,1,118,22,1,,,,"approved"
+343,"Balochistan","Chagai","Muhammad Tuyyab",2022-11-02 21:27:34,1,104,97,97,89,89,104,0.86,89,15,1,,,,"approved"
+343,"Balochistan","Chagai","Muhammad Tuyyab",2022-10-30 15:48:05,2,110,3,103,109,109,104,1.05,109,1,1,,,,"rejected"
+344,"Balochistan","Chagai","Ahmed bux Distt chaghi",2022-10-30 17:34:27,2,95,95,95,90,90,88,1.02,90,5,1,,,,"approved"
+345,"Balochistan","Chagai","Muhammad Tuyyab",2022-10-31 14:26:09,1,52,49,49,52,52,49,1.06,52,0,1,,,,"pending"
+346,"Balochistan","Chagai","Ahmed bux Distt chaghi",2022-10-30 19:49:58,2,95,95,95,95,95,84,1.13,95,0,1,,,,"pending"
+347,"Balochistan","Chagai","Muhammad Tuyyab",2022-11-02 22:39:35,1,172,60,59,168,84,81,2.07,168,4,2,,,,"pending"
+348,"Balochistan","Chagai","Ahmed bux Distt chaghi",2022-11-02 20:26:23,1,49,49,49,47,47,48,0.98,47,2,1,,,,"pending"
+348,"Balochistan","Chagai","Ahmed bux Distt chaghi",2022-10-31 23:10:28,2,49,0,0,49,49,48,1.02,49,0,1,,,,"rejected"
+349,"Balochistan","Chagai","Muhammad Tuyyab",2022-11-02 13:09:35,1,109,106,106,99,99,100,0.99,99,10,1,,,,"pending"
+35,"AJK","Mirpur","Hamza Nawaz Mirpur AJK",2022-10-31 10:19:07,1,227,197,197,158,158,158,1,178,49,1,,,,"pending"
+350,"Balochistan","Chagai","Ahmed bux Distt chaghi",2022-11-02 15:43:04,1,61,61,61,56,56,61,0.92,56,5,1,,,,"pending"
+351,"Balochistan","Chagai","Muhammad Tuyyab",2022-11-03 13:01:21,1,64,64,64,57,57,67,0.85,57,7,1,,,,"pending"
+352,"Balochistan","Kharan","Zamrud Ali kharan",2022-10-31 11:10:04,1,56,38,38,50,50,158,0.32,50,6,1,,,,"hasIssues"
+352,"Balochistan","Kharan","Zamrud Ali kharan",2022-10-30 11:24:45,1,2,2,1,0,-Inf,158,0,0,2,2,,,,"pending"
+352,"Balochistan","Kharan","Zamrud Ali kharan",2022-10-30 11:19:38,1,9,9,1,8,1,158,0.05,8,1,9,,,,"rejected"
+354,"Balochistan","Kharan","Zamrud Ali kharan",2022-10-31 17:19:36,1,127,83,83,112,112,268,0.42,112,15,1,,,,"approved"
+355,"Balochistan","Kharan","Salman Khan kharan",2022-10-31 17:52:33,1,137,99,99,126,126,153,0.82,126,11,1,,,,"pending"
+356,"Balochistan","Kharan","Allah Dad kharan",2022-10-30 11:07:33,6,97,76,76,93,93,265,0.35,93,4,1,,,,"pending"
+358,"Balochistan","Kharan","Allah Dad kharan",2022-10-31 09:24:39,2,215,164,164,202,202,284,0.71,202,13,1,,,,"pending"
+359,"Balochistan","Kharan","Allah Dad kharan",2022-11-02 16:34:34,1,164,134,134,132,132,81,1.63,132,32,1,,,,"pending"
+36,"AJK","Mirpur","Jawad Latif  Mirpur AJK",2022-10-31 13:18:04,2,229,215,215,198,198,362,0.55,203,26,1,,,,"pending"
+361,"Balochistan","Kharan","Zamrud Ali kharan",2022-11-01 09:26:20,1,150,94,94,128,128,104,1.23,128,22,1,,,,"pending"
+362,"Balochistan","Kharan","Muhammad Hassan kharan",2022-11-01 15:45:54,1,223,121,121,200,200,160,1.25,200,23,1,,,,"approved"
+363,"Balochistan","Kharan","Allah Dad kharan",2022-11-03 19:05:39,2,350,239,239,277,277,296,0.94,277,73,1,,,,"pending"
+365,"Balochistan","Kharan","Muhammad Hassan kharan",2022-11-02 14:39:58,1,157,93,93,130,130,169,0.77,130,27,1,,,,"pending"
+366,"Balochistan","Kharan","Salman Khan kharan",2022-11-01 15:36:38,2,288,214,214,222,222,254,0.87,222,66,1,,,,"pending"
+367,"Balochistan","NUSHKI","Riaz Ahmed Nushki",2022-11-02 11:13:01,1,101,60,60,92,92,100,0.92,92,9,1,,,,"pending"
+368,"Balochistan","NUSHKI","Riaz Ahmed Nushki",2022-11-03 12:56:22,1,95,66,66,82,82,93,0.88,84,11,1,,,,"pending"
+369,"Balochistan","NUSHKI","Riaz Ahmed Nushki",2022-11-04 18:13:20,1,124,54,54,119,119,106,1.12,119,5,1,,,,"pending"
+37,"AJK","Mirpur","Jawad Latif  Mirpur AJK",2022-11-03 09:28:19,1,315,294,294,258,258,1543,1,270,45,1,4,"MC Ward 6",257,"pending"
+370,"Balochistan","NUSHKI","Salman khan nushki",2022-10-31 12:21:57,1,108,67,67,102,102,105,0.97,102,6,1,,,,"pending"
+371,"Balochistan","NUSHKI","Salman khan nushki",2022-11-01 10:37:00,1,109,77,77,89,89,108,0.82,89,20,1,,,,"pending"
+372,"Balochistan","NUSHKI","Salman khan nushki",2022-11-02 10:37:05,1,47,34,34,42,42,43,0.98,42,5,1,,,,"pending"
+374,"Balochistan","NUSHKI","Salman khan nushki",2022-11-04 12:12:44,1,110,87,87,95,95,105,0.9,95,15,1,,,,"pending"
+38,"AJK","Mirpur","Jawad Latif  Mirpur AJK",2022-11-02 09:18:40,1,267,234,234,221,221,2428,1,231,36,1,1,"Ward 5 C1",221,"pending"
+39,"AJK","Mirpur","Hamaza Nawaz Mirpur Azad kashmir",2022-10-30 17:12:49,2,474,396,396,434,434,428,1.01,445,29,1,,,,"approved"
 39,"AJK","Mirpur","Hamza Nawaz Mirpur AJK",2022-10-29 17:09:03,1,38,0,0,35,35,428,0.08,35,3,1,,,,"rejected"
-4,"AJK","Bhimber","abdulrehman",2022-10-30 09:01:08,2,327,320,320,212,212,324,0.65,220,107,1,,,,
-402,"Balochistan","Dera Bugti","Dinar khan dera bugti ",2022-11-01 16:02:29,1,29,2,2,29,29,20,1.45,29,0,1,,,,
-403,"Balochistan","Dera Bugti","abdul jabbar Dera Bugti ",2022-11-01 13:18:32,1,52,52,52,52,52,50,1.04,52,0,1,,,,
-404,"Balochistan","Dera Bugti","abdul jabbar Dera Bugti",2022-10-30 14:32:03,1,10,9,9,10,10,20,0.5,10,0,1,,,,
-404,"Balochistan","Dera Bugti","Dinar khan dera bugti",2022-10-30 12:07:04,1,10,6,6,10,10,20,0.5,10,0,1,,,,
-405,"Balochistan","Dera Bugti","abdul jabbar Dera Bugti",2022-10-31 13:03:09,1,55,54,37,55,37,37,1.49,55,0,2,,,,
-405,"Balochistan","Dera Bugti","Dinar khan dera bugti",2022-10-31 13:56:59,1,23,0,0,23,23,37,0.62,23,0,1,,,,
-405,"Balochistan","Dera Bugti","Dinar khan dera bugti ",2022-10-30 08:59:24,1,17,16,16,17,17,37,0.46,17,0,1,,,,
-414,"Balochistan","Kohlu","Mohammad Arif",2022-10-31 19:26:20,1,72,41,9,66,33,33,2,66,6,32,,,,
-415,"Balochistan","Kohlu","Mohammad Arif",2022-10-31 17:34:40,1,10,9,9,10,10,10,1,10,0,1,,,,
-417,"Balochistan","SIBI","muhammad Adnan sibi",2022-10-30 14:25:07,1,92,75,75,92,92,85,1.08,92,0,1,,,,
-418,"Balochistan","SIBI","Shahzad Hussain Sibi",2022-10-31 10:11:09,1,72,46,46,72,72,60,1.2,72,0,1,,,,
-419,"Balochistan","SIBI","muhammad Adnan sibi",2022-10-31 12:21:24,1,55,50,50,55,55,48,1.15,55,0,1,,,,
-420,"Balochistan","Sibi","Shahzad Hussain Sibi",2022-10-31 14:38:30,1,97,77,77,97,97,91,1.07,97,0,1,,,,
-421,"Balochistan","Sibi","muhammad Adnan sibi",2022-10-31 16:26:19,1,55,49,49,55,55,49,1.12,55,0,1,,,,
-422,"Balochistan","Sibi","Shahzad Hussain Sibi",2022-11-01 10:21:07,1,63,46,46,55,55,53,1.04,55,8,1,,,,
-423,"Balochistan","SIBI","muhammad Adnan sibi",2022-11-01 09:16:56,1,107,102,102,79,79,74,1.07,79,28,1,,,,
-43,"AJK","Mirpur","Asharab Ali Mirpur",2022-10-29 10:47:42,2,329,329,329,306,306,1971,0.93,324,5,1,1,"Staff colony",328,
-44,"AJK","Mirpur","Bilal Ahmed Tariq Mirpur",2022-10-29 11:06:52,2,259,253,253,247,247,2050,0.96,252,7,1,1,"B3",256,
-447,"Balochistan","Zhob","imran ullah",2022-10-30 23:23:58,1,307,164,1,306,3,432,0.71,306,1,164,,,,
-448,"Balochistan","Zhob","bakhtyar khan",2022-10-31 22:55:26,1,133,133,1,133,1,243,0.55,133,0,133,,,,
-449,"Balochistan","Zhob","Farooq sherani",2022-10-31 21:42:13,1,91,91,1,91,1,392,0.23,91,0,91,,,,
-450,"Balochistan","zhob","imran ullah",2022-11-01 10:30:07,1,133,133,133,124,124,225,0.55,124,9,1,,,,
-451,"Balochistan","zhob","Gul badin",2022-11-01 10:11:33,1,113,113,113,103,103,233,0.44,103,10,1,,,,
-452,"Balochistan","zhob","imran ullah",2022-10-31 18:31:34,1,182,182,1,178,1,440,0.4,178,4,182,,,,
-453,"Balochistan","zhob","Gul badin",2022-10-31 17:59:24,1,125,114,1,125,1,1264,0.1,125,0,125,,,,
-464,"Balochistan","Loralai","Zia U Rehman",2022-10-30 19:56:31,1,86,86,2,86,2,108,0.8,86,0,85,,,,
-465,"Balochistan","Loralai","Ayaz khan",2022-10-30 22:05:40,1,117,117,1,111,1,181,0.61,112,5,117,,,,
-466,"Balochistan","Loralai","Zia U Rehman",2022-10-31 17:11:21,1,88,88,1,87,1,121,0.72,87,1,88,,,,
-467,"Balochistan","Loralai","Ayaz khan",2022-10-31 18:21:33,1,115,115,1,109,1,199,0.55,112,3,115,,,,
-481,"Gilgit Baltistan","Ganche","Muhammad shamim",2022-10-31 10:28:02,1,168,1,1,132,132,125,1.06,132,36,1,,,,
-482,"Gilgit Baltistan","Ganche","Ghulam Abbas",2022-10-31 14:41:34,1,108,1,1,93,93,109,0.85,93,15,1,,,,
-484,"Gilgit Baltistan","Ganche","Muhammad shamim",2022-11-01 11:23:02,1,198,187,187,158,158,438,1.03,158,40,1,3,"Gupkhor yougu",154,
-493,"Gilgit Baltistan","Kharmang","Ghulam Mustafa",2022-11-01 11:00:18,1,183,182,182,147,147,173,0.85,158,25,1,,,,
-494,"Gilgit Baltistan","Kharmang","Muhammad Ali",2022-10-31 11:50:10,1,116,113,113,108,108,115,0.94,108,8,1,,,,
-499,"Gilgit Baltistan","Shigar","Muhammad Ismail Shigar",2022-10-31 06:53:48,2,131,1,1,91,91,78,1.17,91,40,1,,,,
-500,"Gilgit Baltistan","Shigar","Dilawar Ali shigar",2022-10-30 21:02:09,2,83,2,2,81,82,82,0.99,82,1,1,,,,
-51,"AJK","Jhelum Vellay","Mukarram Muzaffar Jehlum valley",2022-10-29 09:51:27,2,304,304,304,207,207,210,0.99,207,97,1,,,,
-52,"AJK","Jhelum Vellay","Mukarram Muzaffar Jehlum valley",2022-10-29 21:57:05,2,211,211,211,98,99,154,0.64,98,113,1,,,,
-522,"Gilgit Baltistan","Skardu","Munawar Hussain skardu",2022-11-01 09:51:37,1,230,199,199,204,204,1055,34,205,25,1,3,"City park",6,
-523,"Gilgit Baltistan","Skardu","Munawar Hussain skardu",2022-10-31 09:44:06,1,78,61,61,67,67,48,1.4,67,11,1,,,,
-524,"Gilgit Baltistan","Skardu","syed mehdi",2022-10-31 10:18:08,1,147,142,142,122,122,104,1.17,123,24,1,,,,
-529,"Gilgit Baltistan","Astore","Rizwan ullah Astore",2022-10-30 13:20:49,2,118,114,114,89,89,217,0.41,92,26,1,,,,
-53,"AJK","Jhelum Vellay","Syed nisar Shah jahlum velly",2022-10-29 09:52:45,3,363,342,342,341,341,439,0.78,342,21,1,,,,
-530,"Gilgit Baltistan","Astore","muhammad bunyamin Astore",2022-10-30 13:21:08,2,70,70,70,69,69,138,0.5,70,0,1,,,,
-542,"Gilgit Baltistan","Diamer","Hamza khan Diamer",2022-10-30 10:21:27,2,248,215,215,233,233,458,1.02,233,15,1,1,"Janan school area",229,
-543,"Gilgit Baltistan","Diamer","Raza Ullah Diamer",2022-10-30 11:55:48,2,235,111,111,234,234,458,1.02,234,1,1,1,"Govt boys takia school",229,
-544,"Gilgit Baltistan","Diamer","Hamza khan Diamer",2022-10-31 09:21:10,1,217,148,148,217,217,438,0.99,217,0,1,2,"Thokuri 2",219,
-548,"Gilgit Baltistan","Diamer","Faizan khan Diamer",2022-10-31 17:28:22,1,163,161,161,163,163,500,0.65,163,0,1,2,"Govt colony",250,
-549,"Gilgit Baltistan","Diamer","Faizan khan Diamer",2022-10-31 21:03:32,2,87,69,69,73,73,474,0.31,75,12,1,2,"Public school area 2",237,
-550,"Gilgit Baltistan","Diamer","Raza Ullah Diamer",2022-10-31 17:54:17,1,60,60,60,59,59,500,0.24,59,1,1,1,"satellite town",250,
-562,"Gilgit Baltistan","Diamer","shabir ahmad",2022-10-31 09:11:46,1,179,86,86,179,179,333,0.54,179,0,1,,,,
-563,"Gilgit Baltistan","Diamer","Rafiqahmad",2022-11-01 10:40:49,1,152,136,136,151,151,354,0.43,151,1,1,,,,
-564,"Gilgit Baltistan","Diamer","Rafiqahmad",2022-10-31 09:29:36,1,155,90,90,155,155,229,0.68,155,0,1,,,,
-565,"Gilgit Baltistan","Diamer","shabir ahmad",2022-11-01 09:36:32,1,167,75,75,167,167,375,0.45,167,0,1,,,,
-567,"Gilgit Baltistan","Diamer","shabir ahmad",2022-10-30 09:02:20,1,203,67,67,203,203,325,0.62,203,0,1,,,,
-568,"Gilgit Baltistan","Diamer","Rafiqahmad",2022-10-30 09:27:32,1,151,147,147,151,151,325,0.46,151,0,1,,,,
-570,"Gilgit Baltistan","Diamer","Dilshad khan Diamer",2022-10-31 08:35:43,1,329,279,279,83,84,271,0.31,83,246,1,,,,
-574,"Gilgit Baltistan","Diamer","Lal Azam Diamer",2022-10-31 09:20:16,1,109,102,102,107,107,217,0.49,107,2,1,,,,
-575,"Gilgit Baltistan","Diamer","Dilshad khan Diamer",2022-10-30 09:43:16,1,143,100,100,125,125,283,0.44,125,18,1,,,,
-576,"Gilgit Baltistan","Diamer","Lal Azam Diamer",2022-10-30 11:20:47,1,251,164,164,247,247,208,1.19,247,4,1,,,,
+396,"Balochistan","Dera Bugti","Dinar khan dera bugti ",2022-11-04 09:07:25,1,41,22,22,35,35,32,1.09,35,6,1,,,,"pending"
+397,"Balochistan","Dera Bugti","abdul jabbar Dera Bugti ",2022-11-04 12:31:07,1,22,22,22,20,20,20,1,20,2,1,,,,"pending"
+398,"Balochistan","Dera Bugti","Dinar khan dera bugti ",2022-11-03 13:00:49,1,40,39,39,36,36,32,1.12,36,4,1,,,,"pending"
+399,"Balochistan","Dera Bugti","abdul jabbar Dera Bugti ",2022-11-03 08:45:19,1,33,33,33,31,31,30,1.03,31,2,1,,,,"pending"
+4,"AJK","Bhimber","abdulrehman",2022-10-30 09:01:08,2,327,320,320,212,212,324,0.65,220,107,1,,,,"approved"
+40,"AJK","Mirpur","Asharab Ali Mirpur",2022-10-31 10:00:37,3,341,331,331,302,302,1807,1,311,30,1,4,"Muhalla marasian",302,"approved"
+401,"Balochistan","Dera Bugti","abdul jabbar Dera Bugti ",2022-11-02 11:03:05,1,29,29,29,26,26,26,1,26,3,1,,,,"pending"
+401,"Balochistan","Dera Bugti","Dinar khan dera bugti ",2022-11-02 08:01:06,1,39,16,16,37,37,26,1.42,37,2,1,,,,"pending"
+402,"Balochistan","Dera Bugti","Dinar khan dera bugti ",2022-11-02 10:28:28,1,62,18,17,59,30,20,2.95,59,3,2,,,,"pending"
+403,"Balochistan","Dera Bugti","abdul jabbar Dera Bugti ",2022-11-02 13:05:04,1,108,107,56,104,52,50,2.08,104,4,2,,,,"pending"
+404,"Balochistan","Dera Bugti","abdul jabbar Dera Bugti",2022-10-30 14:32:03,1,10,9,9,10,10,20,0.5,10,0,1,,,,"pending"
+404,"Balochistan","Dera Bugti","Dinar khan dera bugti",2022-10-30 12:07:04,1,10,6,6,10,10,20,0.5,10,0,1,,,,"pending"
+405,"Balochistan","Dera Bugti","abdul jabbar Dera Bugti",2022-10-31 13:03:09,1,37,37,37,37,37,37,1,37,0,1,,,,"hasIssues"
+405,"Balochistan","Dera Bugti","abdul jabbar Dera Bugti",2022-10-30 08:45:45,1,18,17,17,18,18,37,0.49,18,0,1,,,,"pending"
+405,"Balochistan","Dera Bugti","Dinar khan dera bugti",2022-10-31 13:56:59,1,23,0,0,23,23,37,0.62,23,0,1,,,,"rejected"
+405,"Balochistan","Dera Bugti","Dinar khan dera bugti ",2022-10-30 08:59:24,1,17,16,16,17,17,37,0.46,17,0,1,,,,"pending"
+41,"AJK","Mirpur","Asharab Ali Mirpur",2022-11-02 15:18:39,2,242,233,233,216,216,215,1,216,26,1,,,,"pending"
+414,"Balochistan","Kohlu","Mohammad Arif",2022-10-31 19:26:20,1,39,9,9,33,33,33,1,33,6,1,,,,"hasIssues"
+414,"Balochistan","Kohlu","Mohammad Arif",2022-10-31 13:52:06,1,33,32,2,33,2,33,1,33,0,31,,,,"rejected"
+414,"Balochistan","Kohlu","Mohammad Arif District Kohlu",2022-11-02 20:25:20,1,44,44,44,33,33,33,1,33,11,1,,,,"pending"
+415,"Balochistan","Kohlu","Mohammad Arif",2022-10-31 17:34:40,1,10,9,9,10,10,10,1,10,0,1,,,,"approved"
+416,"Balochistan","Kohlu","Muhammed Akhtar District Kohlu",2022-11-03 17:35:00,1,91,91,91,74,76,74,1,74,17,1,,,,"approved"
+416,"Balochistan","Kohlu","Muhammed Akhtar District Kohlu",2022-11-02 17:39:17,1,90,4,5,74,74,74,1,74,16,1,,,,"rejected"
+417,"Balochistan","SIBI","muhammad Adnan sibi",2022-10-30 14:25:07,1,92,75,75,92,92,85,1.08,92,0,1,,,,"approved"
+418,"Balochistan","SIBI","Shahzad Hussain Sibi",2022-10-31 10:11:09,1,72,46,46,72,72,60,1.2,72,0,1,,,,"approved"
+419,"Balochistan","SIBI","muhammad Adnan sibi",2022-10-31 12:21:24,1,55,50,50,55,55,48,1.15,55,0,1,,,,"approved"
+42,"AJK","Mirpur","Bilal Ahmed Tariq Mirpur",2022-10-31 09:59:49,3,373,346,346,295,295,2330,1.01,300,73,1,1,"Rahmani Mahala",292,"approved"
+420,"Balochistan","Sibi","Shahzad Hussain Sibi",2022-10-31 14:38:30,1,97,77,77,97,97,91,1.07,97,0,1,,,,"approved"
+421,"Balochistan","Sibi","muhammad Adnan sibi",2022-10-31 16:26:19,1,55,49,49,55,55,49,1.12,55,0,1,,,,"approved"
+422,"Balochistan","Sibi","Shahzad Hussain Sibi",2022-11-01 10:21:07,1,63,46,46,55,55,53,1.04,55,8,1,,,,"approved"
+423,"Balochistan","SIBI","muhammad Adnan sibi",2022-11-01 09:16:56,1,107,102,102,79,79,74,1.07,79,28,1,,,,"approved"
+424,"Balochistan","SIBI","Shahzad Hussain Sibi",2022-11-02 10:09:17,1,102,92,92,81,81,95,0.85,81,21,1,,,,"pending"
+425,"Balochistan","SIBI","muhammad Adnan sibi",2022-11-02 10:55:50,1,110,96,96,89,90,82,1.09,89,21,1,,,,"pending"
+426,"Balochistan","SIBI","muhammad Adnan sibi",2022-11-03 10:55:19,1,93,76,76,74,75,77,0.96,74,19,1,,,,"pending"
+427,"Balochistan","SIBI","Shahzad Hussain Sibi",2022-11-03 10:52:54,1,77,60,60,68,68,59,1.15,68,9,1,,,,"pending"
+428,"Balochistan","SIBI","muhammad Adnan sibi",2022-11-04 12:22:03,1,121,100,100,101,101,92,1.1,101,20,1,,,,"pending"
+429,"Balochistan","Ziarat","Naseeb shah Lister District Ziarat,Harnai",2022-11-02 15:48:40,1,31,29,29,27,27,26,1.04,27,4,1,,,,"pending"
+43,"AJK","Mirpur","Asharab Ali Mirpur",2022-10-29 10:47:42,2,329,329,329,306,306,1971,0.93,324,5,1,1,"Staff colony",328,"approved"
+430,"Balochistan","Ziarat","Hayat khan laster District Ziarat,Haranai",2022-11-02 15:50:23,1,21,20,20,20,20,18,1.11,20,1,1,,,,"pending"
+431,"Balochistan","Ziarat","Naseeb shah Lister District Ziarat,Harnai",2022-11-03 10:04:11,1,42,33,33,36,36,33,1.09,36,6,1,,,,"pending"
+432,"Balochistan","Ziarat","Hayat khan laster District Ziarat,Haranai",2022-11-03 16:33:10,1,80,69,69,78,78,72,1.08,78,2,1,,,,"pending"
+44,"AJK","Mirpur","Bilal Ahmed Tariq Mirpur",2022-10-29 11:06:52,2,259,253,253,247,247,2050,0.96,252,7,1,1,"B3",256,"approved"
+447,"Balochistan","Zhob","imran ullah",2022-10-30 23:23:58,1,307,164,1,306,3,432,0.71,306,1,164,,,,"pending"
+448,"Balochistan","Zhob","bakhtyar khan",2022-11-03 10:52:03,1,134,134,134,134,134,243,0.55,134,0,1,,,,"pending"
+448,"Balochistan","Zhob","bakhtyar khan",2022-10-31 22:55:26,1,133,133,1,133,1,243,0.55,133,0,133,,,,"rejected"
+449,"Balochistan","Zhob","Farooq sherani",2022-10-31 08:06:57,4,185,182,91,183,92,392,0.47,183,2,92,,,,"pending"
+45,"AJK","Mirpur","Bilal Ahmed Tariq Mirpur",2022-11-02 13:23:00,2,332,276,276,271,271,2128,1.02,273,59,1,6,"Dar e arkam school",266,"pending"
+450,"Balochistan","zhob","imran ullah",2022-11-04 11:37:35,1,268,268,135,251,127,225,1.12,251,17,2,,,,"pending"
+451,"Balochistan","zhob","Gul badin",2022-11-04 11:37:50,1,226,224,113,206,103,233,0.88,206,20,2,,,,"pending"
+452,"Balochistan","zhob","imran ullah",2022-11-02 16:28:14,2,161,161,161,155,155,440,0.35,155,6,1,,,,"pending"
+452,"Balochistan","zhob","imran ullah",2022-10-31 18:31:34,1,182,182,1,178,1,440,0.4,178,4,182,,,,"rejected"
+453,"Balochistan","zhob","Gul badin",2022-11-01 16:09:57,3,127,116,114,127,125,1264,0.1,127,0,3,,,,"pending"
+453,"Balochistan","zhob","Gul badin",2022-10-31 17:59:24,1,123,112,1,123,1,1264,0.1,123,0,123,,,,"rejected"
+454,"Balochistan","zhob","bakhtyar khan",2022-11-01 15:49:36,1,215,210,210,171,171,215,0.8,171,44,1,,,,"pending"
+46,"AJK","Mirpur","Bilal Ahmed Tariq Mirpur",2022-11-04 10:02:03,1,221,194,194,168,168,168,1,171,50,1,,,,"pending"
+464,"Balochistan","Loralai","Zia U Rehman",2022-11-02 11:29:39,1,170,170,84,170,84,108,1.57,170,0,86,,,,"pending"
+465,"Balochistan","Loralai","Ayaz khan",2022-11-01 22:57:06,2,231,231,114,220,109,181,1.22,222,9,118,,,,"pending"
+466,"Balochistan","Loralai","Zia U Rehman",2022-11-02 15:41:13,1,171,169,81,169,82,121,1.4,169,2,89,,,,"pending"
+467,"Balochistan","Loralai","Ayaz khan",2022-11-02 12:18:54,1,111,111,111,109,109,199,0.55,109,2,1,,,,"pending"
+467,"Balochistan","Loralai","Ayaz khan",2022-10-31 18:21:33,1,115,115,1,109,1,199,0.55,112,3,115,,,,"rejected"
+468,"Balochistan","Loralai","Zia U Rehman",2022-11-03 09:33:41,1,100,100,100,100,100,162,0.62,100,0,1,,,,"pending"
+469,"Balochistan","Loralai","Ayaz khan",2022-11-03 15:45:23,1,127,127,127,126,126,292,0.43,126,1,1,,,,"pending"
+477,"Balochistan","Sherani","Farooq sherani",2022-11-02 07:54:27,1,71,37,37,60,60,70,0.86,60,11,1,,,,"pending"
+478,"Balochistan","Sherani","bakhtyar khan",2022-11-02 12:29:28,1,115,78,78,87,87,114,0.76,87,28,1,,,,"pending"
+479,"Balochistan","Sherani","imran ullah",2022-11-03 13:32:43,0,130,130,130,118,118,139,0.85,118,12,1,,,,"pending"
+480,"Balochistan","Sherani","Farooq sherani",2022-11-01 09:50:44,1,71,14,14,71,71,71,1,71,0,1,,,,"pending"
+481,"Gilgit Baltistan","Ganche","Muhammad shamim",2022-10-31 10:28:02,1,168,1,1,132,132,125,1.06,132,36,1,,,,"pending"
+482,"Gilgit Baltistan","Ganche","Ghulam Abbas",2022-10-31 14:41:34,1,108,1,1,93,93,109,0.85,93,15,1,,,,"pending"
+483,"Gilgit Baltistan","Ganche","Ghulam Abbas",2022-11-02 09:53:06,1,183,176,176,162,162,438,0.37,162,21,1,,,,"pending"
+484,"Gilgit Baltistan","Ganche","Muhammad shamim",2022-11-01 11:23:02,1,198,187,187,158,158,438,1.03,158,40,1,3,"Gupkhor yougu",154,"approved"
+489,"Gilgit Baltistan","Ganche","Ghulam Abbas",2022-11-03 10:06:24,1,153,147,147,90,90,180,0.5,90,63,1,,,,"pending"
+49,"AJK","Jhelum Vellay","Syed nisar Shah jahlum velly",2022-11-02 11:01:42,2,401,374,374,345,345,345,1,346,55,1,,,,"pending"
+490,"Gilgit Baltistan","Ganche","Muhammad shamim",2022-11-02 14:42:57,2,100,100,100,52,52,158,0.33,52,48,1,,,,"pending"
+492,"Gilgit Baltistan","Kharmang","Ghulam Mustafa",2022-11-02 11:56:39,1,112,110,110,91,91,99,0.92,94,18,1,,,,"pending"
+493,"Gilgit Baltistan","Kharmang","Ghulam Mustafa",2022-11-01 11:00:18,1,183,182,182,147,147,173,0.85,158,25,1,,,,"approved"
+494,"Gilgit Baltistan","Kharmang","Muhammad Ali",2022-10-31 11:50:10,1,116,113,113,108,108,115,0.94,108,8,1,,,,"approved"
+497,"Gilgit Baltistan","Shigar","Muhammad Ismail Shigar",2022-11-01 10:19:33,1,163,155,155,140,140,138,1.01,140,23,1,,,,"approved"
+498,"Gilgit Baltistan","Shigar","Dilawar Ali shigar",2022-11-01 12:29:30,3,234,230,230,203,203,438,0.46,203,31,1,,,,"approved"
+499,"Gilgit Baltistan","Shigar","Muhammad Ismail Shigar",2022-10-31 06:53:48,2,131,1,1,91,91,78,1.17,91,40,1,,,,"rejected"
+5,"AJK","Bhimber","Abdul Rehman",2022-11-01 08:57:39,2,420,403,403,255,255,820,0.61,277,143,1,1,"Rasool pur Colony",420,"pending"
+50,"AJK","Jhelum Vellay","Mukarram Muzaffar Jehlum valley",2022-10-31 08:15:45,2,320,221,221,304,304,454,0.67,304,16,1,,,,"approved"
+500,"Gilgit Baltistan","Shigar","Dilawar Ali shigar",2022-10-30 21:02:09,2,83,2,2,81,82,82,0.99,82,1,1,,,,"pending"
+51,"AJK","Jhelum Vellay","Mukarram Muzaffar Jehlum valley",2022-10-29 09:51:27,2,304,304,304,207,207,210,0.99,207,97,1,,,,"approved"
+515,"Gilgit Baltistan","Skardu","Munawar Hussain skardu",2022-11-01 20:14:38,2,65,59,59,55,55,55,1,55,10,1,,,,"approved"
+517,"Gilgit Baltistan","Skardu","Syed Mehdi shah",2022-11-04 10:54:33,1,97,77,77,78,78,75,1.04,78,19,1,,,,"pending"
+519,"Gilgit Baltistan","Skardu","Munawar Hussain skardu",2022-11-03 09:50:47,1,149,135,135,119,119,117,1.02,119,30,1,,,,"pending"
+52,"AJK","Jhelum Vellay","Mukarram Muzaffar Jehlum valley",2022-10-29 21:57:05,2,211,211,211,98,99,154,0.64,98,113,1,,,,"approved"
+520,"Gilgit Baltistan","Skardu","Syed Mehdi shah",2022-11-02 22:32:22,3,340,313,313,305,305,328,0.93,311,29,1,,,,"approved"
+521,"Gilgit Baltistan","Skardu","Syed Mehdi shah",2022-11-01 10:33:48,2,306,223,223,236,236,235,1,239,67,1,,,,"approved"
+522,"Gilgit Baltistan","Skardu","Munawar Hussain skardu",2022-11-01 09:51:37,1,230,199,199,204,204,1055,34,205,25,1,3,"City park",6,"approved"
+523,"Gilgit Baltistan","Skardu","Munawar Hussain skardu",2022-10-31 09:44:06,1,78,61,61,67,67,48,1.4,67,11,1,,,,"approved"
+524,"Gilgit Baltistan","Skardu","syed mehdi",2022-10-31 10:18:08,1,147,142,142,122,122,104,1.17,123,24,1,,,,"approved"
+525,"Gilgit Baltistan","Skardu","Munawar Hussain skardu",2022-11-04 10:14:23,1,117,78,78,77,78,59,1.31,77,40,1,,,,"pending"
+529,"Gilgit Baltistan","Astore","Rizwan ullah Astore",2022-10-30 13:20:49,2,118,114,114,89,89,217,0.41,92,26,1,,,,"pending"
+53,"AJK","Jhelum Vellay","Syed nisar Shah jahlum velly",2022-10-29 09:52:45,3,363,342,342,341,341,439,0.78,342,21,1,,,,"approved"
+530,"Gilgit Baltistan","Astore","muhammad bunyamin Astore",2022-10-30 13:21:08,2,70,70,70,69,69,138,0.5,70,0,1,,,,"pending"
+531,"Gilgit Baltistan","Astore","Rizwan ullah Astore",2022-11-01 10:39:16,2,169,51,51,147,147,227,0.65,147,22,1,,,,"approved"
+532,"Gilgit Baltistan","Astore","muhammad bunyamin Astore",2022-11-01 10:40:00,2,213,206,206,158,158,158,1,168,45,1,,,,"approved"
+533,"Gilgit Baltistan","Astore","Rizwan ullah Astore",2022-11-03 11:55:09,1,53,42,42,34,35,144,0.24,34,19,1,,,,"pending"
+534,"Gilgit Baltistan","Astore","muhammad bunyamin Astore",2022-11-03 14:49:52,2,132,128,128,95,95,133,0.71,107,25,1,,,,"pending"
+538,"Gilgit Baltistan","Diamer","Hamza khan Diamer",2022-11-04 19:31:04,1,168,119,119,165,165,167,0.99,165,3,1,,,,"pending"
+54,"AJK","Jhelum Vellay","Mukarram Muzaffar Jehlum valley",2022-11-03 13:12:36,2,107,82,82,96,97,163,0.59,96,11,1,,,,"pending"
+542,"Gilgit Baltistan","Diamer","Hamza khan Diamer",2022-10-30 10:21:27,2,248,215,215,233,233,458,1.02,233,15,1,1,"Janan school area",229,"approved"
+543,"Gilgit Baltistan","Diamer","Raza Ullah Diamer",2022-10-30 11:55:48,2,235,111,111,234,234,458,1.02,234,1,1,1,"Govt boys takia school",229,"pending"
+544,"Gilgit Baltistan","Diamer","Hamza khan Diamer",2022-10-31 09:21:10,1,217,148,148,217,217,438,0.99,217,0,1,2,"Thokuri 2",219,"pending"
+545,"Gilgit Baltistan","Diamer","Raza Ullah Diamer",2022-11-02 17:11:04,2,250,173,173,247,247,500,0.99,247,3,1,1,"thack dass bala area 1",250,"pending"
+547,"Gilgit Baltistan","Diamer","Hamza khan Diamer",2022-11-03 21:46:44,2,193,153,153,193,193,521,0.74,193,0,1,1,"1",260,"pending"
+548,"Gilgit Baltistan","Diamer","Faizan khan Diamer",2022-10-31 17:28:22,1,163,161,161,163,163,500,0.65,163,0,1,2,"Govt colony",250,"pending"
+549,"Gilgit Baltistan","Diamer","Faizan khan Diamer",2022-10-31 21:03:32,2,87,69,69,73,73,474,0.31,75,12,1,2,"Public school area 2",237,"pending"
+55,"AJK","Jhelum Vellay","Syed nisar Shah jahlum velly",2022-10-31 23:39:50,2,280,205,205,262,262,448,0.58,263,17,1,,,,"approved"
+550,"Gilgit Baltistan","Diamer","Raza Ullah Diamer",2022-10-31 17:54:17,1,60,60,60,59,59,500,0.24,59,1,1,1,"satellite town",250,"pending"
+551,"Gilgit Baltistan","Diamer","Hamza khan Diamer",2022-11-01 18:58:25,1,110,89,89,110,110,438,0.5,110,0,1,2,"2",219,"pending"
+552,"Gilgit Baltistan","Diamer","Hamza khan Diamer",2022-11-02 21:52:52,1,116,90,91,116,116,500,0.46,116,0,1,1,"01",250,"pending"
+553,"Gilgit Baltistan","Diamer","Faizan khan Diamer",2022-11-02 13:17:45,1,69,53,53,64,64,458,0.28,64,5,1,1,"Shilkat area 1",229,"approved"
+555,"Gilgit Baltistan","Diamer","Raza Ullah Diamer",2022-11-01 16:51:34,2,255,121,121,244,244,500,0.98,245,10,1,1,"Shaheen vellage area 1",250,"approved"
+557,"Gilgit Baltistan","Diamer","Faizan khan Diamer",2022-11-03 14:57:16,1,257,137,137,250,250,500,1,251,6,1,1,"Jalil village 1",250,"approved"
+558,"Gilgit Baltistan","Diamer","Raza Ullah Diamer",2022-11-03 15:17:41,2,205,116,116,203,203,500,0.81,203,2,1,2,"Shaheen H/S area2",250,"pending"
+559,"Gilgit Baltistan","Diamer","Faizan khan Diamer",2022-11-04 11:47:39,1,132,94,94,129,129,513,0.5,129,3,1,2,"Showkot 2",256,"pending"
+56,"AJK","Jhelum Vellay","Mukarram Muzaffar Jehlum valley",2022-11-02 07:05:27,2,351,204,204,344,345,411,0.84,344,7,1,,,,"pending"
+562,"Gilgit Baltistan","Diamer","shabir ahmad",2022-10-31 09:11:46,1,179,86,86,179,179,333,0.54,179,0,1,,,,"pending"
+563,"Gilgit Baltistan","Diamer","Rafiqahmad",2022-11-01 10:40:49,1,152,136,136,151,151,354,0.43,151,1,1,,,,"pending"
+564,"Gilgit Baltistan","Diamer","Rafiqahmad",2022-10-31 09:29:36,1,155,90,90,155,155,229,0.68,155,0,1,,,,"approved"
+565,"Gilgit Baltistan","Diamer","shabir ahmad",2022-11-01 09:36:32,1,167,75,75,167,167,375,0.45,167,0,1,,,,"approved"
+566,"Gilgit Baltistan","Diamer","Rafiqahmad",2022-11-02 10:38:41,1,59,56,56,59,59,333,0.18,59,0,1,,,,"pending"
+567,"Gilgit Baltistan","Diamer","shabir ahmad",2022-10-30 09:02:20,1,203,67,67,203,203,325,0.62,203,0,1,,,,"pending"
+568,"Gilgit Baltistan","Diamer","Rafiqahmad",2022-10-30 09:27:32,1,151,147,147,151,151,325,0.46,151,0,1,,,,"pending"
+569,"Gilgit Baltistan","Diamer","Lal Azam Diamer",2022-11-02 09:43:45,1,52,36,36,51,51,167,0.31,51,1,1,,,,"pending"
+570,"Gilgit Baltistan","Diamer","Dilshad khan Diamer",2022-10-31 08:35:43,1,329,279,279,83,84,271,0.31,83,246,1,,,,"pending"
+571,"Gilgit Baltistan","Diamer","Lal Azam Diamer",2022-11-01 09:43:59,1,80,71,71,80,80,271,0.3,80,0,1,,,,"pending"
+572,"Gilgit Baltistan","Diamer","Dilshad khan Diamer",2022-11-01 11:09:21,1,79,60,60,78,78,217,0.36,78,1,1,,,,"pending"
+573,"Gilgit Baltistan","Diamer","Dilshad khan Diamer",2022-11-02 09:24:57,1,55,35,35,54,54,254,0.21,54,1,1,,,,"pending"
+574,"Gilgit Baltistan","Diamer","Lal Azam Diamer",2022-10-31 09:20:16,1,109,102,102,107,107,217,0.49,107,2,1,,,,"pending"
+575,"Gilgit Baltistan","Diamer","Dilshad khan Diamer",2022-10-30 09:43:16,1,143,100,100,125,125,283,0.44,125,18,1,,,,"approved"
+576,"Gilgit Baltistan","Diamer","Lal Azam Diamer",2022-10-30 11:20:47,1,251,164,164,247,247,208,1.19,247,4,1,,,,"approved"
+577,"Gilgit Baltistan","Ghizer","shabeer Hussain",2022-11-03 12:04:36,2,399,5,5,372,372,372,1,372,27,1,,,,"pending"
+579,"Gilgit Baltistan","Ghizer","ghulam issa khan ghizer",2022-11-03 12:35:36,1,50,50,50,48,48,49,0.98,48,2,1,,,,"pending"
+588,"Gilgit Baltistan","Ghizer","shabeer Hussain",2022-11-01 15:42:51,3,289,288,288,271,271,271,1,271,18,1,,,,"approved"
+589,"Gilgit Baltistan","Ghizer","ghulam issa khan ghizer",2022-11-01 10:07:42,3,268,268,268,251,251,495,1.01,251,17,1,1,"Tause bala",248,"approved"
 59,"AJK","Muzaffarabad","Muhammad usman MZD",2022-10-29 10:11:43,2,288,1,1,257,257,515,0.5,260,28,1,,,,"rejected"
-591,"Gilgit Baltistan","Gilgit","shah Mirza -Gilgit",2022-10-30 16:24:47,2,133,132,132,133,133,133,1,133,0,1,,,,
-61,"AJK","Muzaffarabad","Abubakar Muzaffarabad",2022-10-29 09:25:08,2,259,231,231,252,252,273,0.92,252,7,1,,,,
-619,"Gilgit Baltistan","Hunza","Muhmmad Alam HNR",2022-10-31 17:42:05,1,153,152,152,151,151,291,0.52,151,2,1,,,,
-620,"Gilgit Baltistan","Hunza","Muhmmad Alam HNR",2022-11-01 04:02:20,1,70,70,70,68,68,68,1,68,2,1,,,,
-622,"Gilgit Baltistan","Nagar","Nouman ullah baig HNR",2022-10-31 23:18:43,1,294,147,147,294,147,146,2.01,294,0,2,,,,
-623,"Gilgit Baltistan","Nagar","Nouman ullah baig HNR",2022-10-31 18:41:23,1,124,124,124,124,124,124,1,124,0,1,,,,
-625,"Khyber PakhtunKhwa","Bannu ","Muhammad Salman",2022-10-29 12:20:40,2,357,171,171,357,357,480,0.74,357,0,1,,,,
-627,"Khyber PakhtunKhwa","Bannu ","Muhammad Salman",2022-10-31 17:01:27,1,204,101,101,204,204,490,0.42,204,0,1,,,,
-628,"Khyber PakhtunKhwa","Bannu ","Muhammad Salman",2022-10-30 16:04:20,1,155,82,82,155,155,480,0.32,155,0,1,,,,
-631,"Khyber PakhtunKhwa","Bannu ","Yasir Ullah Khan",2022-10-29 22:05:47,2,321,288,288,321,321,320,1,321,0,1,,,,
-632,"Khyber PakhtunKhwa","Bannu ","Yasir Ullah Khan",2022-10-31 10:17:53,1,321,177,177,321,321,320,1,321,0,1,,,,
-637,"Khyber PakhtunKhwa","Bannu ","Fida Muhammad Khan",2022-10-29 09:30:55,1,403,247,247,403,403,804,1,403,0,1,1,"Sukari jabber 1",402,
-638,"Khyber PakhtunKhwa","Bannu ","Fida Muhammad Khan",2022-10-30 09:19:11,2,386,199,199,383,383,772,0.99,384,2,1,1,"Sukari jabber 2",386,
-639,"Khyber PakhtunKhwa","Bannu ","Fida Muhammad Khan",2022-10-31 13:13:12,1,271,156,156,270,270,812,1,271,0,1,2,"Zabta khan",270,
-643,"Khyber PakhtunKhwa","Lakki Marwat","sajad Khan",2022-10-29 10:46:03,1,75,66,66,60,60,604,0.1,75,0,1,,,,
-644,"Khyber PakhtunKhwa","Lakki Marwat","sajad Khan",2022-10-30 09:16:39,1,110,96,96,110,110,601,0.18,110,0,1,,,,
-645,"Khyber PakhtunKhwa","Lakki Marwat","sajad Khan",2022-10-31 10:42:15,1,124,103,103,124,124,605,0.2,124,0,1,,,,
-649,"Khyber PakhtunKhwa","Lakki Marwat","wajahat Hussain",2022-10-29 09:58:47,1,95,79,79,95,95,640,0.15,95,0,1,,,,
-650,"Khyber PakhtunKhwa","Lakki Marwat","Vajahat Hussain",2022-10-30 10:39:37,1,87,80,80,87,87,590,0.15,87,0,1,,,,
-651,"Khyber PakhtunKhwa","Lakki Marwat","Vajahat Hussain",2022-10-31 11:02:27,1,100,97,97,100,100,635,0.16,100,0,1,,,,
-655,"Khyber PakhtunKhwa","Lakki Marwat","Arif Nawaz",2022-10-29 10:00:18,1,119,113,113,117,117,430,0.27,118,1,1,,,,
-656,"Khyber PakhtunKhwa","Lakki Marwat","Arif Nawaz",2022-10-30 09:15:44,1,91,86,86,91,91,870,0.1,91,0,1,,,,
-657,"Khyber PakhtunKhwa","Lakki Marwat","Arif Nawaz",2022-10-30 20:07:18,3,179,172,172,158,158,490,0.32,158,21,1,,,,
-661,"Khyber PakhtunKhwa","Lakki Marwat","Jehan Zeb Khan Lakki Marwat",2022-10-29 15:38:51,1,211,211,211,204,204,641,0.32,211,0,1,,,,
-662,"Khyber PakhtunKhwa","Lakki Marwat","Jehan Zeb Khan Lakki Marwat",2022-10-30 07:04:22,1,70,60,60,70,70,732,0.1,70,0,1,,,,
-67,"AJK","Muzaffarabad","Saqlain Sarfraz Muzaffarabad",2022-10-29 10:30:20,2,442,325,325,439,439,438,1,439,3,1,,,,
-673,"Khyber PakhtunKhwa","DI Khan","M.Anss Qureshi D I Khan",2022-10-29 11:40:09,1,155,144,144,152,152,4591,2.11,152,3,1,1,"Gali nim wali",72,
-674,"Khyber PakhtunKhwa","DI Khan","M.Anss Qureshi D I Khan",2022-10-30 09:58:51,1,146,127,127,113,113,4591,1.41,117,29,1,1,"Usmaniya street",80,
-675,"Khyber PakhtunKhwa","DI Khan","M.Anss Qureshi D I Khan",2022-10-31 11:14:34,1,77,76,76,55,55,4505,0.01,58,19,1,,,,
-679,"Khyber PakhtunKhwa","DI Khan","Usman Ali Dik",2022-10-29 12:53:01,1,76,2,2,73,73,4424,0.02,73,3,1,,,,
-680,"Khyber PakhtunKhwa","DI Khan","Usman ali DIK",2022-10-30 09:24:08,1,152,2,2,142,142,7034,0.02,142,10,1,,,,
-681,"Khyber PakhtunKhwa","DI Khan","Usman ali DIK",2022-10-31 10:45:47,1,61,32,32,48,48,7034,0.01,48,13,1,,,,
-685,"Khyber PakhtunKhwa","DI Khan","Asif Sattar Khan D I Khan",2022-10-29 12:22:25,1,183,164,164,124,124,835,0.15,128,55,1,,,,
-686,"Khyber PakhtunKhwa","DI Khan","Asif Sattar Khan D I Khan",2022-10-30 10:05:54,1,177,128,128,152,152,5750,0.03,152,25,1,,,,
-687,"Khyber PakhtunKhwa","DI Khan","Asif Sattar Khan D I Khan",2022-10-31 10:35:27,1,246,213,213,150,150,5461,0.03,150,96,1,,,,
-688,"Khyber PakhtunKhwa","DI Khan","Asif Sattar Khan D I Khan",2022-11-01 10:16:52,1,253,230,230,150,150,5920,1.43,152,101,1,1,"Hussaini Chowk",105,
-691,"Khyber PakhtunKhwa","DI Khan","Irfan ullah khan D I Khan",2022-10-29 11:00:28,1,107,63,63,101,101,8432,0.6,101,6,1,1,"Mein gali behari colony",169,
-692,"Khyber PakhtunKhwa","DI Khan","Irfan ullah khan D I Khan",2022-10-30 08:48:59,1,120,76,76,109,109,8432,0.01,111,9,1,,,,
-693,"Khyber PakhtunKhwa","DI Khan","Irfan ullah khan D I Khan",2022-10-31 09:14:52,1,162,103,103,145,145,8975,0.02,145,17,1,,,,
-694,"Khyber PakhtunKhwa","DI Khan","Irfan ullah khan D I Khan",2022-11-01 13:06:09,1,153,114,114,136,136,8975,0.02,137,16,1,,,,
-695,"Khyber PakhtunKhwa","DI Khan","Lati Khan ",2022-10-29 13:35:35,1,66,2,2,56,56,8975,0.01,56,10,1,,,,
-697,"Khyber PakhtunKhwa","DI Khan","Rafi u din dera Ismail Khan",2022-10-29 23:10:01,2,198,140,140,155,155,8713,0.02,155,43,1,,,,
-698,"Khyber PakhtunKhwa","DI Khan","Rafi u din dera Ismail Khan",2022-10-31 00:02:03,2,177,125,125,152,152,7200,0.76,154,23,1,1,"Jhok 1",200,
-702,"Khyber PakhtunKhwa","DI Khan","Lati Khan ",2022-10-30 14:19:29,1,79,62,62,74,75,5248,0.01,74,5,1,,,,
-703,"Khyber PakhtunKhwa","DI Khan","Lati Khan ",2022-10-31 14:52:04,1,90,54,54,87,87,5248,0.02,87,3,1,,,,
-704,"Khyber PakhtunKhwa","DI Khan","Lati Khan",2022-11-01 13:56:55,1,76,76,76,72,72,6891,0.01,72,4,1,,,,
-707,"Khyber PakhtunKhwa","DI Khan","Salah ud din",2022-10-29 10:18:54,1,100,3,3,100,100,3342,0.03,100,0,1,,,,
-708,"Khyber PakhtunKhwa","DI Khan","Salah ud din",2022-10-30 12:16:29,1,143,73,73,142,142,5699,0.02,143,0,1,,,,
-709,"Khyber PakhtunKhwa","DI Khan","Salah ud din",2022-10-31 10:31:09,1,163,77,77,163,163,5699,0.03,163,0,1,,,,
-716,"Khyber PakhtunKhwa","Tank","Aman ullah DIST Tank",2022-10-29 09:52:13,2,252,225,225,252,252,705,0.36,252,0,1,,,,
-717,"Khyber PakhtunKhwa","Tank","Aman ullah DIST Tank",2022-10-31 11:06:10,1,98,95,95,98,98,758,0.13,98,0,1,,,,
-727,"Khyber PakhtunKhwa","Abbottabad","Khalid Mahmood Tanoli",2022-10-29 21:14:08,2,392,343,343,392,392,1592,1,392,0,1,3,"C",392,
-733,"Khyber PakhtunKhwa","Abbottabad","shahzeb Abbott Abad",2022-10-30 17:29:23,1,241,203,116,222,127,940,1.11,225,16,2,4,"Shamila hill",200,
-739,"Khyber PakhtunKhwa","Abbottabad","haq nawaz abbottabad",2022-10-30 16:14:25,1,356,130,130,301,175,530,1.2,301,55,2,2,"Kehal urban",250,
-746,"Khyber PakhtunKhwa","Haripur","Noman khan Haripur",2022-11-01 10:22:26,1,138,134,134,103,103,414,0.25,104,34,1,,,,
-750,"Khyber PakhtunKhwa","Haripur","Mukarram khan",2022-10-29 11:11:04,1,171,1,1,170,170,615,0.28,170,1,1,,,,
-751,"Khyber PakhtunKhwa","Haripur","Noman khan Haripur",2022-10-29 12:47:33,1,109,1,1,72,72,569,0.13,74,35,1,,,,
-752,"Khyber PakhtunKhwa","Haripur","Mukarram khan",2022-10-31 11:29:45,1,146,135,135,113,113,1155,0.1,113,33,1,,,,
-753,"Khyber PakhtunKhwa","Haripur","Noman khan Haripur",2022-10-30 15:40:54,2,134,132,132,104,104,1610,0.06,109,25,1,,,,
-754,"Khyber PakhtunKhwa","Haripur","Mukarram khan",2022-10-30 10:53:33,1,96,96,96,90,91,525,0.17,91,5,1,,,,
-755,"Khyber PakhtunKhwa","Haripur","Noman khan Haripur",2022-10-30 10:12:57,1,344,342,342,289,289,598,0.48,289,55,1,,,,
-759,"Khyber PakhtunKhwa","Mansehra","Usman shoukat  mansehra",2022-10-30 14:57:16,1,158,153,153,149,149,582,0.26,152,6,1,,,,
-760,"Khyber PakhtunKhwa","Mansehra","Muhammad Rameez Khan Mansehra",2022-10-30 13:09:27,1,195,150,94,180,110,524,0.69,180,15,2,2,"Mohalla Dandi",262,
-761,"Khyber PakhtunKhwa","Mansehra","Usman shoukat  mansehra",2022-10-31 09:29:20,1,193,160,160,192,192,626,0.31,192,1,1,,,,
-762,"Khyber PakhtunKhwa","Mansehra","Muhammad Rameez Khan Mansehra",2022-10-31 09:18:29,1,100,84,84,100,100,465,0.22,100,0,1,,,,
-774,"Khyber PakhtunKhwa","Hangu","muhammad zubair",2022-10-29 11:49:36,1,60,37,37,59,59,706,0.08,60,0,1,,,,
-775,"Khyber PakhtunKhwa","Hangu","muhammad zubair",2022-10-30 15:35:15,1,108,108,108,108,108,686,0.16,108,0,1,,,,
-776,"Khyber PakhtunKhwa","Hangu","muhammad zubair",2022-10-31 14:58:05,1,96,94,94,96,96,782,0.12,96,0,1,,,,
-779,"Khyber PakhtunKhwa","Karak","Qaisar Sohail",2022-10-29 11:10:15,1,142,141,141,142,142,814,0.75,142,0,1,2,"Namak mandi",190,
-78,"AJK","Muzaffarabad","Faizan Latif Muzaffarabad",2022-10-29 10:56:01,2,329,267,267,311,311,304,1.02,311,18,1,,,,
-780,"Khyber PakhtunKhwa","Karak","Qaisar Sohail",2022-10-30 08:58:07,1,133,89,89,133,133,804,0.81,133,0,1,3,"Shozi Khel/Khudi Khel",165,
-781,"Khyber PakhtunKhwa","Karak","Qaisar Sohail",2022-10-31 09:20:01,1,205,160,160,205,205,538,0.82,205,0,1,2,"Choni no 2",250,
-784,"Khyber PakhtunKhwa","Kohat","Shams ur rehman",2022-10-30 18:01:11,1,468,436,304,376,272,335,1.12,431,37,2,,,,
-785,"Khyber PakhtunKhwa","Kohat","Shams ur rehman",2022-10-31 17:48:05,1,259,237,237,247,247,260,0.95,253,6,1,,,,
-790,"Khyber PakhtunKhwa","Kohat","Zia ullah",2022-10-30 16:26:33,1,468,436,320,427,315,750,1.14,443,25,2,2,"Nehar side area",375,
-796,"Khyber PakhtunKhwa","Kohat","Muhammad Moaviya",2022-10-30 09:49:22,2,347,346,346,274,274,461,0.59,283,64,1,,,,
-797,"Khyber PakhtunKhwa","Kohat","Muhammad Moaviya",2022-10-31 16:08:20,2,183,176,176,146,146,660,0.22,147,36,1,,,,
-80,"AJK","Muzaffarabad","Faizan Latif Muzaffarabad",2022-10-31 09:44:42,2,315,237,237,291,292,287,1.01,292,23,1,,,,
-812,"Khyber PakhtunKhwa","Kurram Upper","Tehseen Ullah",2022-10-29 10:43:11,1,183,1,1,183,183,350,0.52,183,0,1,,,,
-813,"Khyber PakhtunKhwa","Kurram Upper","Tehseen Ullah",2022-10-31 09:51:02,1,216,201,201,213,213,766,0.28,213,3,1,,,,
-819,"Khyber PakhtunKhwa","Dir Lower","Syed imtiaz Ahmad dir lower",2022-10-29 12:10:54,1,86,1,1,78,78,1088,0.07,78,8,1,,,,
-820,"Khyber PakhtunKhwa","Dir Lower","Syed imtiaz Ahmad dir lower",2022-10-30 10:47:04,1,101,101,101,100,100,767,0.13,100,1,1,,,,
-821,"Khyber PakhtunKhwa","Dir Lower","Syed imtiaz Ahmad dir lower",2022-10-31 10:49:59,1,104,104,104,102,102,418,0.24,102,2,1,,,,
-823,"Khyber PakhtunKhwa","Dir Upper","Muhammad zubair khan",2022-10-30 19:03:54,1,56,56,56,56,56,441,0.13,56,0,1,,,,
-824,"Khyber PakhtunKhwa","Dir Upper","Muhammad zubair khan",2022-10-31 11:42:04,1,150,75,75,150,75,390,0.38,150,0,2,,,,
-825,"Khyber PakhtunKhwa","Malakand","Syed Bilal Ahmad malakand",2022-11-01 00:32:37,2,201,81,81,193,112,640,0.3,193,8,2,,,,
-826,"Khyber PakhtunKhwa","Malakand","Syed Bilal Ahmad malakand",2022-10-30 16:28:59,1,126,125,125,126,126,417,0.3,126,0,1,,,,
-827,"Khyber PakhtunKhwa","Malakand","Syed Bilal Ahmad malakand",2022-10-31 10:37:36,1,112,101,93,112,101,626,0.18,112,0,2,,,,
-828,"Khyber PakhtunKhwa","Swat","Abbas Ahmad",2022-10-30 15:08:04,1,419,412,260,416,261,380,1.09,418,1,2,,,,
-829,"Khyber PakhtunKhwa","Swat","Abbas Ahmad",2022-10-31 10:02:06,1,131,120,120,125,125,292,0.43,125,6,1,,,,
-832,"Khyber PakhtunKhwa","Swat","Tanveer Ahmad",2022-10-30 14:47:16,1,448,252,252,440,267,390,1.13,448,0,2,,,,
-833,"Khyber PakhtunKhwa","Swat","Tanveer Ahmad",2022-10-31 11:58:51,1,221,219,219,221,221,378,0.58,221,0,1,,,,
-836,"Khyber PakhtunKhwa","Swat","Abbas Ahmad",2022-11-01 10:56:58,1,300,290,290,248,248,300,0.83,248,52,1,,,,
-837,"Khyber PakhtunKhwa","Swat","shuaib swat",2022-10-30 13:12:07,1,319,316,230,319,230,305,1.05,319,0,2,,,,
-838,"Khyber PakhtunKhwa","Swat","shuaib swat",2022-10-31 09:45:33,1,135,135,135,135,135,308,0.44,135,0,1,,,,
-843,"Khyber PakhtunKhwa","Swat","wahab shab",2022-10-29 13:56:31,1,154,3,3,142,142,286,0.5,144,10,1,,,,
-844,"Khyber PakhtunKhwa","Swat","wahab shab",2022-10-30 18:33:51,2,329,327,327,329,329,329,1,329,0,1,,,,
-847,"Khyber PakhtunKhwa","Swat","wasim Akram Swat",2022-10-30 14:56:07,1,476,335,196,470,247,250,1.88,470,6,2,,,,
-848,"Khyber PakhtunKhwa","Swat","wasim Akram Swat",2022-10-30 16:51:51,2,210,143,143,210,210,283,0.74,210,0,1,,,,
-849,"Khyber PakhtunKhwa","Swat","akhtar yousaf swat",2022-10-29 12:45:36,1,80,77,77,80,80,199,0.4,80,0,1,,,,
-851,"Khyber PakhtunKhwa","Swat","akhtar yousaf swat",2022-10-30 12:23:12,1,146,79,79,146,146,339,0.43,146,0,1,,,,
-852,"Khyber PakhtunKhwa","Swat","wasim Akram Swat",2022-11-01 10:23:10,1,106,83,83,72,72,295,0.24,72,34,1,,,,
-865,"Khyber PakhtunKhwa","Mardan","Muhammad Muneeb mardan",2022-10-29 16:10:36,1,131,112,112,131,131,430,0.3,131,0,1,,,,
-866,"Khyber PakhtunKhwa","Mardan","Muhammad Muneeb mardan",2022-10-31 14:42:46,1,165,144,144,142,142,606,0.23,142,23,1,,,,
-867,"Khyber PakhtunKhwa","Mardan","Muhammad Muneeb mardan",2022-10-30 15:14:50,1,148,125,125,130,130,415,0.31,133,15,1,,,,
-868,"Khyber PakhtunKhwa","Mardan","Muhammad Muneeb mardan",2022-11-01 13:48:40,1,132,94,94,122,122,330,0.37,123,9,1,,,,
-871,"Khyber PakhtunKhwa","Mardan","Haris Akbar Mardan",2022-10-29 14:14:13,1,127,125,125,127,127,497,0.26,127,0,1,,,,
-872,"Khyber PakhtunKhwa","Mardan","Haris Akbar Mardan",2022-10-30 15:12:48,1,114,114,114,114,114,409,0.28,114,0,1,,,,
-873,"Khyber PakhtunKhwa","Mardan","Haris Akbar Mardan",2022-10-31 23:22:41,1,267,263,263,267,267,465,0.57,267,0,1,,,,
-880,"Khyber PakhtunKhwa","Mardan","Amjad mardan",2022-10-29 11:08:57,1,195,1,1,191,191,520,0.37,193,2,1,,,,
-881,"Khyber PakhtunKhwa","Mardan","Amjad mardan",2022-10-31 09:20:04,1,148,148,148,127,127,405,0.31,128,20,1,,,,
-882,"Khyber PakhtunKhwa","Mardan","Amjad mardan",2022-10-30 10:45:06,1,215,209,209,196,196,479,0.41,197,18,1,,,,
-883,"Khyber PakhtunKhwa","Mardan","Amin khan",2022-10-30 09:53:11,1,153,153,153,153,153,444,0.34,153,0,1,,,,
-884,"Khyber PakhtunKhwa","Mardan","Amin khan",2022-10-31 14:40:07,1,208,207,207,153,153,340,0.45,155,53,1,,,,
-889,"Khyber PakhtunKhwa","Mardan","Babar shah mardan",2022-10-30 08:32:38,1,362,211,211,291,146,310,0.94,291,71,2,,,,
-891,"Khyber PakhtunKhwa","Mardan","Babar shah mardan",2022-10-31 10:48:14,1,124,124,124,106,106,370,0.29,106,18,1,,,,
-895,"Khyber PakhtunKhwa","Swabi","ASIF KHAN SWABI",2022-10-30 14:53:48,1,298,281,181,286,185,567,1.07,286,12,2,2,"Kashmiryan 2",267,
-90,"AJK","Neelum","Raja Aashan.Neelum",2022-10-29 10:05:16,2,274,219,219,205,205,233,0.88,205,69,1,,,,
-901,"Khyber PakhtunKhwa","Swabi","tauseef ahmad swabi",2022-10-29 11:57:24,2,289,266,266,263,263,711,0.37,263,26,1,,,,
-907,"Khyber PakhtunKhwa","Swabi","Shah saud",2022-10-29 19:53:57,2,298,263,263,260,260,610,0.9,262,36,1,1,"Dagai lar pir tab 1",290,
+590,"Gilgit Baltistan","Gilgit","shah Mirza -Gilgit",2022-11-01 11:28:14,1,220,220,220,220,220,1097,1,220,0,1,4,"Shaheen Model School",219,"pending"
+591,"Gilgit Baltistan","Gilgit","shah Mirza -Gilgit",2022-10-30 16:24:47,2,133,132,132,133,133,133,1,133,0,1,,,,"approved"
+592,"Gilgit Baltistan","Gilgit","Nisar Ahmad khan gilgit",2022-11-01 13:22:25,3,223,223,223,200,200,727,0.83,202,21,1,3,"Mohammad Abad 2",242,"approved"
+593,"Gilgit Baltistan","Gilgit","Nisar Ahmad khan gilgit",2022-11-01 23:08:43,2,118,118,118,106,106,104,1.02,106,12,1,,,,"approved"
+594,"Gilgit Baltistan","Gilgit","Nisar Ahmad khan gilgit",2022-11-03 11:11:55,1,104,104,104,94,94,96,0.98,94,10,1,,,,"approved"
+595,"Gilgit Baltistan","Gilgit","Shah Mirza -Gilgit",2022-11-02 10:27:47,1,149,148,148,147,147,403,0.36,147,2,1,,,,"pending"
+597,"Gilgit Baltistan","Gilgit","Muhmmad Alam HNR",2022-11-02 18:44:25,1,174,174,174,173,173,292,0.59,173,1,1,,,,"pending"
+6,"AJK","Bhimber","Arbab khurshid bhimber",2022-11-03 14:11:50,2,400,381,381,298,298,1596,0.74,300,100,1,2,"Station 5",400,"pending"
+601,"Gilgit Baltistan","Gilgit","jalal ul haq",2022-11-02 13:35:47,1,202,200,200,184,184,183,1.01,185,17,1,,,,"pending"
+603,"Gilgit Baltistan","Gilgit","jalal ul haq",2022-11-04 15:17:43,1,197,194,194,189,189,188,1.01,189,8,1,,,,"pending"
+604,"Gilgit Baltistan","Gilgit","Mubashir Hussain",2022-11-04 10:12:02,1,103,97,97,98,98,98,1,98,5,1,,,,"pending"
+605,"Gilgit Baltistan","Gilgit","Muhmmad Alam HNR",2022-11-03 18:48:09,1,45,44,44,43,43,42,1.02,43,2,1,,,,"pending"
+606,"Gilgit Baltistan","Gilgit","jalal ul haq",2022-11-02 17:38:57,3,168,164,164,166,166,165,1.01,166,2,1,,,,"pending"
+609,"Gilgit Baltistan","Gilgit","Mubashir Hussain",2022-11-03 10:33:08,1,133,114,114,125,125,125,1,125,8,1,,,,"pending"
+61,"AJK","Muzaffarabad","Abubakar Muzaffarabad",2022-10-29 09:25:08,2,259,231,231,252,252,273,0.92,252,7,1,,,,"approved"
+619,"Gilgit Baltistan","Hunza","Muhmmad Alam HNR",2022-10-31 17:42:05,1,153,152,152,151,151,291,0.52,151,2,1,,,,"approved"
+620,"Gilgit Baltistan","Hunza","Muhmmad Alam HNR",2022-11-01 04:02:20,1,70,70,70,68,68,68,1,68,2,1,,,,"approved"
+621,"Gilgit Baltistan","Nagar","Muhmmad Alam HNR",2022-11-01 13:23:22,1,121,120,120,118,118,118,1,118,3,1,,,,"pending"
+622,"Gilgit Baltistan","Nagar","Nouman ullah baig HNR",2022-10-31 23:18:43,1,147,147,147,147,147,146,1.01,147,0,1,,,,"approved"
+622,"Gilgit Baltistan","Nagar","Nouman ullah baig HNR",2022-10-30 09:34:10,1,147,0,0,147,147,146,1.01,147,0,1,,,,"rejected"
+623,"Gilgit Baltistan","Nagar","Nouman ullah baig HNR",2022-10-31 18:41:23,1,124,124,124,124,124,124,1,124,0,1,,,,"approved"
+624,"Gilgit Baltistan","Nagar","Nouman ullah baig HNR",2022-11-01 20:22:49,1,112,112,112,112,112,112,1,112,0,1,,,,"approved"
+625,"Khyber PakhtunKhwa","Bannu ","Muhammad Salman",2022-10-29 12:20:40,2,357,171,171,357,357,480,0.74,357,0,1,,,,"approved"
+626,"Khyber PakhtunKhwa","Bannu ","Muhammad Salman",2022-11-03 16:54:51,1,138,137,137,11,11,1000,0.01,11,127,1,,,,"pending"
+627,"Khyber PakhtunKhwa","Bannu ","Muhammad Salman",2022-10-31 17:01:27,1,204,101,101,204,204,490,0.42,204,0,1,,,,"pending"
+628,"Khyber PakhtunKhwa","Bannu ","Muhammad Salman",2022-10-30 16:04:20,1,155,82,82,155,155,480,0.32,155,0,1,,,,"approved"
+629,"Khyber PakhtunKhwa","Bannu ","Muhammad Salman",2022-11-01 14:09:29,1,115,97,97,50,50,330,0.15,50,65,1,,,,"pending"
+630,"Khyber PakhtunKhwa","Bannu ","Muhammad Salman",2022-11-02 19:52:33,1,169,134,134,79,79,590,0.13,79,90,1,,,,"pending"
+631,"Khyber PakhtunKhwa","Bannu ","Yasir Ullah Khan",2022-10-29 22:05:47,2,321,288,288,321,321,320,1,321,0,1,,,,"pending"
+632,"Khyber PakhtunKhwa","Bannu ","Yasir Ullah Khan",2022-10-31 10:17:53,1,321,177,177,321,321,320,1,321,0,1,,,,"approved"
+633,"Khyber PakhtunKhwa","Bannu ","Yasir Ullah Khan",2022-11-01 13:05:48,1,79,64,64,65,66,676,0.38,65,14,1,1,"Ghazni khel 2",169,"pending"
+634,"Khyber PakhtunKhwa","Bannu ","Yasir Ullah Khan",2022-11-02 10:23:31,1,402,330,330,227,227,700,0.65,227,175,1,1,"Tanchi bazar 2",350,"pending"
+635,"Khyber PakhtunKhwa","Bannu ","Yasir Ullah Khan",2022-11-03 17:06:47,1,148,122,122,98,98,236,0.42,98,50,1,,,,"pending"
+635,"Khyber PakhtunKhwa","Bannu ","Yasir Ullah Khan ",2022-11-03 09:59:40,1,148,123,123,98,98,236,0.42,98,50,1,,,,"pending"
+636,"Khyber PakhtunKhwa","Bannu ","Yasir Ullah Khan",2022-11-04 09:27:08,1,212,139,139,199,199,605,0.66,199,13,1,1,"Hassan khel1",302,"pending"
+637,"Khyber PakhtunKhwa","Bannu ","Fida Muhammad Khan",2022-10-29 09:30:55,1,403,247,247,403,403,804,1,403,0,1,1,"Sukari jabber 1",402,"approved"
+638,"Khyber PakhtunKhwa","Bannu ","Fida Muhammad Khan",2022-10-30 09:19:11,2,386,199,199,383,383,772,0.99,384,2,1,1,"Sukari jabber 2",386,"pending"
+639,"Khyber PakhtunKhwa","Bannu ","Fida Muhammad Khan",2022-10-31 13:13:12,1,271,156,156,270,270,812,1,271,0,1,2,"Zabta khan",270,"pending"
+640,"Khyber PakhtunKhwa","Bannu ","Fida Muhammad Khan",2022-11-01 11:45:42,1,260,148,148,252,252,1030,0.98,257,3,1,1,"Karim khan",258,"pending"
+641,"Khyber PakhtunKhwa","Bannu ","fida Muhammad Khan",2022-11-02 09:18:12,1,280,179,179,267,267,626,0.43,269,11,1,,,,"pending"
+642,"Khyber PakhtunKhwa","Bannu ","fida Muhammad Khan",2022-11-03 09:15:28,1,225,206,206,171,171,743,0.23,175,50,1,,,,"pending"
+643,"Khyber PakhtunKhwa","Lakki Marwat","sajad Khan",2022-10-29 10:46:03,1,75,66,66,60,60,604,0.1,75,0,1,,,,"pending"
+644,"Khyber PakhtunKhwa","Lakki Marwat","sajad Khan",2022-10-30 09:16:39,1,110,96,96,110,110,601,0.18,110,0,1,,,,"pending"
+645,"Khyber PakhtunKhwa","Lakki Marwat","sajad Khan",2022-10-31 10:42:15,1,124,103,103,124,124,605,0.2,124,0,1,,,,"approved"
+646,"Khyber PakhtunKhwa","Lakki Marwat","sajad Khan",2022-11-01 09:52:01,1,119,109,109,84,84,610,0.14,84,35,1,,,,"pending"
+647,"Khyber PakhtunKhwa","Lakki Marwat","sajad Khan",2022-11-02 09:15:08,1,122,101,101,95,95,620,0.15,99,23,1,,,,"pending"
+648,"Khyber PakhtunKhwa","Lakki Marwat","sajad Khan",2022-11-03 09:47:18,1,66,57,57,49,49,640,0.08,50,16,1,,,,"pending"
+649,"Khyber PakhtunKhwa","Lakki Marwat","wajahat Hussain",2022-10-29 09:58:47,1,95,79,79,95,95,640,0.15,95,0,1,,,,"pending"
+650,"Khyber PakhtunKhwa","Lakki Marwat","Vajahat Hussain",2022-10-30 10:39:37,1,87,80,80,87,87,590,0.15,87,0,1,,,,"pending"
+651,"Khyber PakhtunKhwa","Lakki Marwat","Vajahat Hussain",2022-10-31 11:02:27,1,100,97,97,100,100,635,0.16,100,0,1,,,,"pending"
+652,"Khyber PakhtunKhwa","Lakki Marwat","Vajahat Hussain",2022-11-01 17:38:56,1,107,105,105,53,53,615,0.09,59,48,1,,,,"pending"
+653,"Khyber PakhtunKhwa","Lakki Marwat","Vajahat Hussain",2022-11-02 14:51:27,1,182,174,174,125,125,610,0.2,128,54,1,,,,"pending"
+654,"Khyber PakhtunKhwa","Lakki Marwat","Vajahat Hussain",2022-11-03 17:53:08,1,172,170,170,94,94,430,0.22,95,77,1,,,,"pending"
+655,"Khyber PakhtunKhwa","Lakki Marwat","Arif Nawaz",2022-10-29 10:00:18,1,119,113,113,117,117,430,0.27,118,1,1,,,,"pending"
+656,"Khyber PakhtunKhwa","Lakki Marwat","Arif Nawaz",2022-10-30 09:15:44,1,91,86,86,91,91,870,0.1,91,0,1,,,,"pending"
+657,"Khyber PakhtunKhwa","Lakki Marwat","Arif Nawaz",2022-10-30 20:07:18,3,179,172,172,158,158,490,0.32,158,21,1,,,,"approved"
+658,"Khyber PakhtunKhwa","Lakki Marwat","Arif Nawaz",2022-11-01 14:13:49,2,67,67,67,47,48,416,0.11,47,20,1,,,,"pending"
+659,"Khyber PakhtunKhwa","Lakki Marwat","Arif Nawaz",2022-11-02 15:28:55,1,138,128,128,114,114,486,0.23,114,24,1,,,,"pending"
+660,"Khyber PakhtunKhwa","Lakki Marwat","Arif Nawaz",2022-11-03 12:29:14,1,75,75,75,60,60,628,0.1,60,15,1,,,,"pending"
+661,"Khyber PakhtunKhwa","Lakki Marwat","Jehan Zeb Khan Lakki Marwat",2022-10-29 15:38:51,1,211,211,211,204,204,641,0.32,211,0,1,,,,"pending"
+662,"Khyber PakhtunKhwa","Lakki Marwat","Jehan Zeb Khan Lakki Marwat",2022-10-30 07:04:22,1,70,60,60,70,70,732,0.1,70,0,1,,,,"pending"
+663,"Khyber PakhtunKhwa","Lakki Marwat","Jehan Zeb Khan Lakki Marwat",2022-11-01 16:50:07,1,111,104,104,103,103,867,0.12,103,8,1,,,,"pending"
+664,"Khyber PakhtunKhwa","Lakki Marwat","Jehan Zeb Khan Lakki Marwat",2022-10-31 20:45:16,4,257,257,257,148,148,805,0.18,148,109,1,,,,"pending"
+665,"Khyber PakhtunKhwa","Lakki Marwat","Jehan Zeb Khan Lakki Marwat",2022-11-02 10:28:32,1,97,94,94,77,77,731,0.11,77,20,1,,,,"pending"
+666,"Khyber PakhtunKhwa","Lakki Marwat","Jehan Zeb Khan Lakki Marwat",2022-11-03 09:08:44,1,203,194,194,173,174,549,0.32,173,30,1,,,,"pending"
+669,"Khyber PakhtunKhwa","Lakki Marwat","mohammad faseh ullah",2022-11-02 18:01:14,1,180,180,180,177,177,695,0.25,177,3,1,,,,"pending"
+67,"AJK","Muzaffarabad","Saqlain Sarfraz Muzaffarabad",2022-10-29 10:30:20,2,442,325,325,439,439,438,1,439,3,1,,,,"approved"
+670,"Khyber PakhtunKhwa","Lakki Marwat","mohammad faseh ullah",2022-11-03 06:25:19,1,171,141,141,161,161,752,0.21,161,10,1,,,,"pending"
+671,"Khyber PakhtunKhwa","Lakki Marwat","mohammad faseh ullah ",2022-11-02 21:53:07,1,79,79,79,64,64,481,0.13,64,15,1,,,,"pending"
+672,"Khyber PakhtunKhwa","Lakki Marwat","mohammad faseh ullah",2022-11-03 09:51:53,1,155,155,155,133,133,505,0.26,133,22,1,,,,"pending"
+673,"Khyber PakhtunKhwa","DI Khan","M.Anss Qureshi D I Khan",2022-10-29 11:40:09,1,155,144,144,152,152,4591,2.11,152,3,1,1,"Gali nim wali",72,"pending"
+674,"Khyber PakhtunKhwa","DI Khan","M.Anss Qureshi D I Khan",2022-10-30 09:58:51,1,146,127,127,113,113,4591,1.41,117,29,1,1,"Usmaniya street",80,"pending"
+675,"Khyber PakhtunKhwa","DI Khan","M.Anss Qureshi D I Khan",2022-10-31 11:14:34,1,77,76,76,55,55,4505,0.01,58,19,1,,,,"approved"
+676,"Khyber PakhtunKhwa","DI Khan","M.Anss Qureshi D I Khan",2022-11-01 11:08:23,1,174,158,158,140,140,289,0.48,145,29,1,,,,"pending"
+677,"Khyber PakhtunKhwa","DI Khan","M.Anss Qureshi D I Khan",2022-11-02 13:11:18,1,177,172,172,152,152,328,0.46,153,24,1,,,,"pending"
+678,"Khyber PakhtunKhwa","DI Khan","M.Anss Qureshi D I Khan",2022-11-03 13:06:26,1,189,176,176,147,147,700,0.21,151,38,1,,,,"pending"
+679,"Khyber PakhtunKhwa","DI Khan","Usman ali DIK",2022-11-03 18:10:40,1,75,74,74,72,72,4424,0.02,72,3,1,,,,"pending"
+679,"Khyber PakhtunKhwa","DI Khan","Usman Ali Dik",2022-10-29 12:53:01,1,76,2,2,73,73,4424,0.02,73,3,1,,,,"rejected"
+68,"AJK","Muzaffarabad","Saqlain Sarfraz Muzaffarabad",2022-10-31 10:36:45,2,386,360,360,365,365,363,1.01,366,20,1,,,,"approved"
+680,"Khyber PakhtunKhwa","DI Khan","Usman ali DIK",2022-10-30 09:24:08,1,152,2,2,142,142,7034,0.02,142,10,1,,,,"pending"
+681,"Khyber PakhtunKhwa","DI Khan","Usman ali DIK",2022-10-31 10:45:47,1,61,32,32,48,48,7034,0.01,48,13,1,,,,"pending"
+682,"Khyber PakhtunKhwa","DI Khan","Usman ali DIK",2022-11-01 11:36:20,1,134,132,132,105,105,865,0.12,105,29,1,,,,"pending"
+683,"Khyber PakhtunKhwa","DI Khan","Usman ali DIK",2022-10-31 10:45:26,3,191,190,190,155,155,759,0.2,155,36,1,,,,"pending"
+684,"Khyber PakhtunKhwa","DI Khan","Usman ali DIK",2022-11-03 09:33:05,1,78,77,77,68,68,749,0.09,68,10,1,,,,"pending"
+685,"Khyber PakhtunKhwa","DI Khan","Asif Sattar Khan D I Khan",2022-10-29 12:22:25,1,183,164,164,124,124,835,0.15,128,55,1,,,,"pending"
+686,"Khyber PakhtunKhwa","DI Khan","Asif Sattar Khan D I Khan",2022-10-30 10:05:54,1,177,128,128,152,152,5750,0.03,152,25,1,,,,"pending"
+687,"Khyber PakhtunKhwa","DI Khan","Asif Sattar Khan D I Khan",2022-10-31 10:35:27,1,246,213,213,150,150,5461,0.03,150,96,1,,,,"approved"
+688,"Khyber PakhtunKhwa","DI Khan","Asif Sattar Khan D I Khan",2022-11-01 10:16:52,1,253,230,230,150,150,5920,1.43,152,101,1,1,"Hussaini Chowk",105,"pending"
+689,"Khyber PakhtunKhwa","DI Khan","Asif Sattar Khan D I Khan",2022-11-02 14:32:22,1,135,121,121,100,100,5920,0.83,100,35,1,1,"Nad Ali Shah",120,"pending"
+69,"AJK","Muzaffarabad","Muhammad usman MZD",2022-10-31 14:13:46,2,287,285,285,260,260,447,0.58,262,25,1,,,,"approved"
+690,"Khyber PakhtunKhwa","DI Khan","Asif Sattar Khan D I Khan",2022-11-03 09:34:12,1,193,166,166,154,154,5920,0.03,154,39,1,,,,"pending"
+691,"Khyber PakhtunKhwa","DI Khan","Irfan ullah khan D I Khan",2022-10-29 11:00:28,1,107,63,63,101,101,8432,0.6,101,6,1,1,"Mein gali behari colony",169,"pending"
+692,"Khyber PakhtunKhwa","DI Khan","Irfan ullah khan D I Khan",2022-10-30 08:48:59,1,120,76,76,109,109,8432,0.01,111,9,1,,,,"pending"
+693,"Khyber PakhtunKhwa","DI Khan","Irfan ullah khan D I Khan",2022-10-31 09:14:52,1,162,103,103,145,145,8975,0.02,145,17,1,,,,"pending"
+694,"Khyber PakhtunKhwa","DI Khan","Irfan ullah khan D I Khan",2022-11-01 13:06:09,1,153,114,114,136,136,8975,0.02,137,16,1,,,,"approved"
+695,"Khyber PakhtunKhwa","DI Khan","Lati Khan ",2022-10-29 13:35:35,1,66,2,2,56,56,8975,0.01,56,10,1,,,,"pending"
+697,"Khyber PakhtunKhwa","DI Khan","Rafi u din dera Ismail Khan",2022-10-29 23:10:01,2,198,140,140,155,155,8713,0.02,155,43,1,,,,"approved"
+698,"Khyber PakhtunKhwa","DI Khan","Rafi u din dera Ismail Khan",2022-10-31 00:02:03,2,177,125,125,152,152,7200,0.76,154,23,1,1,"Jhok 1",200,"pending"
+699,"Khyber PakhtunKhwa","DI Khan","Rafi u din dera Ismail Khan",2022-11-01 08:31:57,1,213,158,158,180,180,7200,1.2,181,32,1,1,"Jock 2",150,"pending"
+7,"AJK","Bhimber","Arbab khurshid bhimber",2022-11-01 13:40:59,3,425,394,394,323,323,1276,0.76,326,99,1,1,"Old post office",425,"pending"
+70,"AJK","Muzaffarabad","Saqlain Sarfraz Muzaffarabad",2022-11-02 09:57:19,2,278,221,221,268,268,267,1,268,10,1,,,,"approved"
+700,"Khyber PakhtunKhwa","DI Khan","Rafi u din dera Ismail Khan",2022-11-02 08:31:19,1,253,164,164,222,222,10517,,224,29,1,3,,,"pending"
+701,"Khyber PakhtunKhwa","DI Khan","Rafi u din dera Ismail Khan",2022-11-03 08:46:40,1,163,115,115,139,139,10517,0.01,141,22,1,,,,"pending"
+702,"Khyber PakhtunKhwa","DI Khan","Lati Khan ",2022-10-30 14:19:29,1,79,62,62,74,75,5248,0.01,74,5,1,,,,"pending"
+703,"Khyber PakhtunKhwa","DI Khan","Lati Khan ",2022-10-31 14:52:04,1,90,54,54,87,87,5248,0.02,87,3,1,,,,"pending"
+704,"Khyber PakhtunKhwa","DI Khan","Lati Khan",2022-11-01 13:56:55,1,76,76,76,72,72,6891,0.01,72,4,1,,,,"pending"
+705,"Khyber PakhtunKhwa","DI Khan","Irfan ullah khan D I Khan",2022-11-03 12:02:44,1,166,148,148,117,117,8303,0.01,117,49,1,,,,"pending"
+706,"Khyber PakhtunKhwa","DI Khan","Irfan ullah khan D I Khan",2022-11-04 09:58:17,1,183,163,163,144,144,8303,0.02,144,39,1,,,,"pending"
+707,"Khyber PakhtunKhwa","DI Khan","Salah ud din",2022-10-29 10:18:54,1,100,3,3,100,100,3342,0.03,100,0,1,,,,"pending"
+708,"Khyber PakhtunKhwa","DI Khan","Salah ud din",2022-10-30 12:16:29,1,143,73,73,142,142,5699,0.02,143,0,1,,,,"pending"
+709,"Khyber PakhtunKhwa","DI Khan","Salah ud din",2022-10-31 10:31:09,1,163,77,77,163,163,5699,0.03,163,0,1,,,,"pending"
+710,"Khyber PakhtunKhwa","DI Khan","Salah ud din",2022-11-01 13:23:19,1,187,48,48,171,171,3941,0.04,171,16,1,,,,"pending"
+711,"Khyber PakhtunKhwa","DI Khan","Salah ud din",2022-11-02 12:19:49,1,182,11,11,158,158,5380,0.03,161,21,1,,,,"pending"
+712,"Khyber PakhtunKhwa","DI Khan","Salah ud din",2022-11-03 13:59:07,1,157,4,4,149,149,6567,0.02,151,6,1,,,,"pending"
+713,"Khyber PakhtunKhwa","DI Khan","Salah ud din",2022-11-04 11:27:39,1,169,3,3,164,164,6567,0.02,166,3,1,,,,"pending"
+714,"Khyber PakhtunKhwa","DI Khan","Lati Khan",2022-11-02 14:32:12,1,73,71,71,72,72,4156,0.02,72,1,1,,,,"pending"
+715,"Khyber PakhtunKhwa","DI Khan","Lati Khan",2022-11-03 12:10:49,1,74,73,73,72,72,4403,0.02,72,2,1,,,,"pending"
+716,"Khyber PakhtunKhwa","Tank","Aman ullah DIST Tank",2022-10-29 09:52:13,2,252,225,225,252,252,705,0.36,252,0,1,,,,"pending"
+717,"Khyber PakhtunKhwa","Tank","Aman ullah DIST Tank",2022-10-31 20:34:16,2,163,154,154,161,161,758,0.21,161,2,1,,,,"approved"
+717,"Khyber PakhtunKhwa","Tank","Aman ullah DIST Tank",2022-10-31 11:06:10,1,98,95,95,98,98,758,0.13,98,0,1,,,,"rejected"
+718,"Khyber PakhtunKhwa","Tank","Aman ullah DIST Tank",2022-11-01 22:12:31,2,178,163,163,163,163,200,0.81,163,15,1,,,,"pending"
+719,"Khyber PakhtunKhwa","Tank","Aman ullah DIST Tank",2022-11-02 22:09:10,2,212,196,196,185,185,375,0.49,185,27,1,,,,"pending"
+720,"Khyber PakhtunKhwa","Tank","Aman ullah DIST Tank",2022-11-03 21:37:35,2,194,162,162,184,184,450,0.41,184,10,1,,,,"pending"
+727,"Khyber PakhtunKhwa","Abbottabad","Khalid Mahmood Tanoli",2022-10-29 21:14:08,2,392,343,343,392,392,1592,1,392,0,1,3,"C",392,"pending"
+728,"Khyber PakhtunKhwa","Abbottabad","Khalid Mahmood Tanoli",2022-10-31 15:20:09,2,429,404,404,429,429,2574,1,429,0,1,3,"Narrain 3",429,"pending"
+729,"Khyber PakhtunKhwa","Abbottabad","Khalid Mahmood Tanoli",2022-11-01 19:28:37,2,326,321,321,326,326,648,1,326,0,1,1,"Narrian kaber A1",326,"pending"
+731,"Khyber PakhtunKhwa","Abbottabad","Khalid Mahmood Tanoli",2022-11-02 21:20:52,2,386,385,385,386,386,1836,1,386,0,1,3,"Ch3",386,"pending"
+732,"Khyber PakhtunKhwa","Abbottabad","Khalid Mahmood Tanoli",2022-11-04 14:54:40,1,197,197,197,197,197,682,1,197,0,1,1,"Dar",197,"pending"
+733,"Khyber PakhtunKhwa","Abbottabad","shahzeb Abbott Abad",2022-10-30 17:29:23,1,136,116,116,127,127,940,0.64,129,7,1,4,"Shamila hill",200,"approved"
+733,"Khyber PakhtunKhwa","Abbottabad","shahzeb Abbott Abad",2022-10-29 12:22:16,1,105,87,87,95,95,940,0.48,96,9,1,4,"Shamila hill",200,"rejected"
+734,"Khyber PakhtunKhwa","Abbottabad","shahzeb Abbott Abad",2022-10-31 10:13:40,2,224,201,201,224,224,3546,0.75,224,0,1,1,"Lower orash colony",300,"pending"
+735,"Khyber PakhtunKhwa","Abbottabad","shahzeb Abbott Abad",2022-11-02 09:21:14,2,146,131,131,113,113,1516,0.07,113,33,1,,,,"pending"
+736,"Khyber PakhtunKhwa","Abbottabad","shahzeb Abbott Abad",2022-11-03 09:55:33,1,124,118,118,92,92,1448,0.06,92,32,1,,,,"pending"
+738,"Khyber PakhtunKhwa","Abbottabad","shahzeb Abbott Abad",2022-11-04 08:53:00,1,140,123,123,103,103,680,0.15,103,37,1,,,,"pending"
+739,"Khyber PakhtunKhwa","Abbottabad","haq nawaz abbottabad",2022-10-30 16:14:25,1,203,130,130,175,175,530,0.7,175,28,1,2,"Kehal urban",250,"approved"
+739,"Khyber PakhtunKhwa","Abbottabad","haq nawaz abbottabad",2022-10-29 11:39:29,1,153,0,0,126,126,530,0.5,126,27,1,2,"Kehal urban",250,"rejected"
+740,"Khyber PakhtunKhwa","Abbottabad","haq nawaz abbottabad",2022-10-30 08:00:47,3,199,190,190,192,192,2870,0.07,192,7,1,,,,"pending"
+741,"Khyber PakhtunKhwa","Abbottabad","haq nawaz abbottabad",2022-11-02 09:46:56,2,113,108,108,101,101,1600,0.06,101,12,1,,,,"pending"
+742,"Khyber PakhtunKhwa","Abbottabad","haq nawaz abbottabad",2022-11-03 09:36:12,1,122,120,120,113,113,932,0.12,113,9,1,,,,"pending"
+744,"Khyber PakhtunKhwa","Abbottabad","haq nawaz abbottabad",2022-11-04 09:14:33,1,109,107,107,103,103,1910,0.05,103,6,1,,,,"pending"
+745,"Khyber PakhtunKhwa","Haripur","Mukarram khan",2022-11-02 11:22:13,1,216,211,116,181,102,749,0.24,181,35,2,,,,"pending"
+746,"Khyber PakhtunKhwa","Haripur","Noman khan Haripur",2022-11-01 10:22:26,1,138,134,134,103,103,414,0.25,104,34,1,,,,"pending"
+747,"Khyber PakhtunKhwa","Haripur","Mukarram khan",2022-11-03 10:37:05,1,136,131,131,114,114,663,0.17,114,22,1,,,,"pending"
+749,"Khyber PakhtunKhwa","Haripur","Noman khan Haripur",2022-11-02 11:46:45,1,137,103,103,111,111,493,0.23,111,26,1,,,,"pending"
+75,"AJK","Muzaffarabad","Muhammad usman MZD",2022-11-02 08:35:51,-670,299,278,278,271,271,560,0.97,272,27,1,2,"Shoket lini 2",280,"pending"
+750,"Khyber PakhtunKhwa","Haripur","Mukarram khan",2022-10-29 11:11:04,1,171,1,1,170,170,615,0.28,170,1,1,,,,"pending"
+751,"Khyber PakhtunKhwa","Haripur","Noman khan Haripur",2022-10-29 12:47:33,1,109,1,1,72,72,569,0.13,74,35,1,,,,"pending"
+752,"Khyber PakhtunKhwa","Haripur","Mukarram khan",2022-10-31 11:29:45,1,146,135,135,113,113,1155,0.1,113,33,1,,,,"pending"
+753,"Khyber PakhtunKhwa","Haripur","Noman khan Haripur",2022-10-30 15:40:54,2,134,132,132,104,104,1610,0.06,109,25,1,,,,"pending"
+754,"Khyber PakhtunKhwa","Haripur","Mukarram khan",2022-10-30 10:53:33,1,96,96,96,90,91,525,0.17,91,5,1,,,,"pending"
+755,"Khyber PakhtunKhwa","Haripur","Noman khan Haripur",2022-10-30 10:12:57,1,344,342,342,289,289,598,0.48,289,55,1,,,,"approved"
+759,"Khyber PakhtunKhwa","Mansehra","Usman shoukat  mansehra",2022-10-30 14:57:16,1,158,153,153,149,149,582,0.26,152,6,1,,,,"approved"
+760,"Khyber PakhtunKhwa","Mansehra","Muhammad Rameez Khan Mansehra",2022-10-30 13:09:27,1,117,94,94,110,110,524,0.42,110,7,1,2,"Mohalla Dandi",262,"approved"
+760,"Khyber PakhtunKhwa","Mansehra","Muhammad Rameez Khan Mansehra",2022-10-29 11:25:39,1,78,56,56,70,70,524,0.27,70,8,1,2,"Mohalla Dandi",262,"rejected"
+761,"Khyber PakhtunKhwa","Mansehra","Usman shoukat  mansehra",2022-10-31 09:29:20,1,193,160,160,192,192,626,0.31,192,1,1,,,,"pending"
+762,"Khyber PakhtunKhwa","Mansehra","Muhammad Rameez Khan Mansehra",2022-10-31 09:18:29,1,100,84,84,100,100,465,0.22,100,0,1,,,,"pending"
+763,"Khyber PakhtunKhwa","Mansehra","Usman shoukat  mansehra",2022-11-01 09:38:38,2,290,271,271,282,282,495,0.57,285,5,1,,,,"pending"
+764,"Khyber PakhtunKhwa","Mansehra","Muhammad Rameez Khan Mansehra",2022-11-01 14:05:56,2,165,152,152,141,141,460,0.31,141,24,1,,,,"pending"
+765,"Khyber PakhtunKhwa","Mansehra","Usman shoukat  mansehra",2022-11-03 09:50:16,1,124,114,114,122,122,585,0.21,123,1,1,,,,"pending"
+766,"Khyber PakhtunKhwa","Mansehra","Muhammad Rameez Khan Mansehra",2022-11-03 16:07:34,1,104,93,93,97,97,571,0.17,97,7,1,,,,"pending"
+767,"Khyber PakhtunKhwa","Mansehra","Usman shoukat  mansehra",2022-11-04 11:37:38,1,111,106,106,104,104,1313,0.08,106,5,1,,,,"pending"
+768,"Khyber PakhtunKhwa","Mansehra","Muhammad Rameez Khan Mansehra",2022-11-04 09:38:36,1,125,116,116,109,109,557,0.2,109,16,1,,,,"pending"
+771,"Khyber PakhtunKhwa","Hangu","Naeem Khan",2022-10-31 20:38:24,1,208,207,207,208,208,732,0.28,208,0,1,,,,"pending"
+772,"Khyber PakhtunKhwa","Hangu","Naeem Khan",2022-11-01 12:53:25,1,147,125,125,147,147,812,0.18,147,0,1,,,,"pending"
+773,"Khyber PakhtunKhwa","Hangu","Naeem Khan",2022-10-31 23:54:18,3,214,56,56,202,202,492,0.41,205,9,1,,,,"pending"
+774,"Khyber PakhtunKhwa","Hangu","muhammad zubair",2022-10-29 11:49:36,1,60,37,37,59,59,706,0.08,60,0,1,,,,"pending"
+775,"Khyber PakhtunKhwa","Hangu","muhammad zubair",2022-10-30 15:35:15,1,108,108,108,108,108,686,0.16,108,0,1,,,,"pending"
+776,"Khyber PakhtunKhwa","Hangu","muhammad zubair",2022-10-31 14:58:05,1,96,94,94,96,96,782,0.12,96,0,1,,,,"pending"
+777,"Khyber PakhtunKhwa","Hangu","muhammad zubair",2022-11-01 20:15:46,1,72,71,71,67,67,629,0.11,67,5,1,,,,"pending"
+778,"Khyber PakhtunKhwa","Hangu","muhammad zubair",2022-11-03 14:35:24,1,56,54,54,28,28,835,0.03,28,28,1,,,,"pending"
+778,"Khyber PakhtunKhwa","Hangu","muhammad zubair",2022-11-02 10:37:02,1,44,33,33,27,28,835,0.03,28,16,1,,,,"rejected"
+779,"Khyber PakhtunKhwa","Karak","Qaisar Sohail",2022-10-29 11:10:15,1,142,141,141,142,142,814,0.75,142,0,1,2,"Namak mandi",190,"pending"
+78,"AJK","Muzaffarabad","Faizan Latif Muzaffarabad",2022-10-29 10:56:01,2,329,267,267,311,311,304,1.02,311,18,1,,,,"approved"
+780,"Khyber PakhtunKhwa","Karak","Qaisar Sohail",2022-10-30 08:58:07,1,133,89,89,133,133,804,0.81,133,0,1,3,"Shozi Khel/Khudi Khel",165,"pending"
+781,"Khyber PakhtunKhwa","Karak","Qaisar Sohail",2022-10-31 09:20:01,1,205,160,160,205,205,538,0.82,205,0,1,2,"Choni no 2",250,"pending"
+782,"Khyber PakhtunKhwa","Karak","Qaisar Sohail",2022-11-02 13:30:13,1,256,195,195,245,245,595,0.84,245,11,1,2,"Algadi Korona Baji khel",290,"pending"
+783,"Khyber PakhtunKhwa","Karak","Qaisar Sohail",2022-11-03 14:44:29,1,234,207,207,211,211,612,0.75,211,23,1,2," Tehsil korona",280,"pending"
+784,"Khyber PakhtunKhwa","Kohat","Shams ur rehman",2022-10-30 18:01:11,1,327,304,304,271,272,335,0.81,320,7,1,,,,"approved"
+784,"Khyber PakhtunKhwa","Kohat","Shams ur rehman",2022-10-29 11:36:26,1,141,132,132,105,106,335,0.31,111,30,1,,,,"rejected"
+785,"Khyber PakhtunKhwa","Kohat","Shams ur rehman",2022-10-31 17:48:05,1,259,237,237,247,247,260,0.95,253,6,1,,,,"approved"
+786,"Khyber PakhtunKhwa","Kohat","Shams ur rehman",2022-11-01 19:16:28,1,431,406,406,377,377,860,188.5,393,38,1,1,"430",2,"pending"
+787,"Khyber PakhtunKhwa","Kohat","Shams ur rehman",2022-11-02 11:38:55,1,420,409,409,343,343,810,0.85,374,46,1,2,"2",405,"pending"
+788,"Khyber PakhtunKhwa","Kohat","Shams ur rehman",2022-11-03 09:34:10,1,55,55,55,50,50,1521,0.13,52,3,1,3,"3",380,"pending"
+79,"AJK","Muzaffarabad","Abubakar Muzaffarabad",2022-11-02 09:42:28,2,236,196,196,215,215,825,0.78,215,21,1,1,"Al qalim college mohalla",275,"pending"
+790,"Khyber PakhtunKhwa","Kohat","Zia ullah",2022-10-30 16:26:33,1,348,320,320,315,315,750,0.84,328,20,1,2,"Nehar side area",375,"approved"
+790,"Khyber PakhtunKhwa","Kohat","Zia ullah",2022-10-29 12:01:27,1,120,116,119,112,112,750,0.3,115,5,1,2,"Nehar side area",375,"rejected"
+791,"Khyber PakhtunKhwa","Kohat","Zia ullah",2022-10-31 11:13:42,2,362,349,349,324,324,1450,0.9,345,17,1,3,"3",362,"pending"
+793,"Khyber PakhtunKhwa","Kohat","Zia ullah",2022-11-02 12:21:26,1,267,259,259,229,229,525,0.88,253,14,1,1,"1",260,"pending"
+794,"Khyber PakhtunKhwa","Kohat","Zia ullah",2022-11-03 09:08:51,2,341,334,334,295,295,2720,0.87,315,26,1,4,"4",340,"pending"
+796,"Khyber PakhtunKhwa","Kohat","Muhammad Moaviya",2022-10-30 09:49:22,2,347,346,346,274,274,461,0.59,283,64,1,,,,"pending"
+797,"Khyber PakhtunKhwa","Kohat","Muhammad Moaviya",2022-10-31 16:08:20,2,183,176,176,146,146,660,0.22,147,36,1,,,,"approved"
+798,"Khyber PakhtunKhwa","Kohat","Muhammad Moaviya",2022-11-01 16:14:22,3,197,197,197,168,168,650,0.26,168,29,1,,,,"pending"
+8,"AJK","Bhimber","Abdul Rehman",2022-11-03 10:14:13,1,127,124,124,54,54,127,0.43,70,57,1,,,,"pending"
+80,"AJK","Muzaffarabad","Faizan Latif Muzaffarabad",2022-10-31 09:44:42,2,315,237,237,291,292,287,1.01,292,23,1,,,,"approved"
+802,"Khyber PakhtunKhwa","Kohat","Noman kohat",2022-11-03 16:07:21,2,638,632,254,473,205,734,1.83,503,135,3,2,"2",258,"pending"
+81,"AJK","Muzaffarabad","Faizan Latif Muzaffarabad",2022-11-02 10:35:37,2,272,209,209,256,256,510,1,256,16,1,1,"khawaja muhala",255,"approved"
+810,"Khyber PakhtunKhwa","Kohat","Naeem Khan",2022-11-03 18:26:24,1,62,3,3,52,52,192,0.27,53,9,1,,,,"pending"
+811,"Khyber PakhtunKhwa","Kohat","muhammad zubair",2022-11-03 19:06:02,1,71,69,69,62,62,580,0.11,62,9,1,,,,"pending"
+812,"Khyber PakhtunKhwa","Kurram Upper","Tehseen Ullah",2022-10-29 10:43:11,1,183,1,1,183,183,350,0.52,183,0,1,,,,"pending"
+813,"Khyber PakhtunKhwa","Kurram Upper","Tehseen Ullah",2022-10-31 09:51:02,1,216,201,201,213,213,766,0.28,213,3,1,,,,"approved"
+814,"Khyber PakhtunKhwa","Kurram Upper","Tehseen Ullah",2022-11-01 09:47:32,1,170,159,159,166,166,770,0.22,166,4,1,,,,"approved"
+815,"Khyber PakhtunKhwa","Kurram Upper","Tehseen Ullah",2022-11-02 10:06:13,1,114,100,100,103,103,498,0.21,103,11,1,,,,"pending"
+816,"Khyber PakhtunKhwa","Kurram Upper","Tehseen Ullah",2022-11-03 09:46:53,1,166,135,135,157,157,730,0.22,157,9,1,,,,"pending"
+817,"Khyber PakhtunKhwa","Chitral Lower","Ghulam ullah khan sajid Chitral",2022-11-04 11:53:35,1,55,55,54,52,51,317,0.16,52,3,2,,,,"pending"
+819,"Khyber PakhtunKhwa","Dir Lower","Syed imtiaz Ahmad dir lower",2022-10-29 12:10:54,1,86,1,1,78,78,1088,0.07,78,8,1,,,,"pending"
+820,"Khyber PakhtunKhwa","Dir Lower","Syed imtiaz Ahmad dir lower",2022-10-30 10:47:04,1,101,101,101,100,100,767,0.13,100,1,1,,,,"pending"
+821,"Khyber PakhtunKhwa","Dir Lower","Syed imtiaz Ahmad dir lower",2022-10-31 10:49:59,1,104,104,104,102,102,418,0.24,102,2,1,,,,"pending"
+822,"Khyber PakhtunKhwa","Dir Lower","Syed imtiaz Ahmad dir lower",2022-11-01 11:13:30,1,121,121,121,116,116,423,0.27,116,5,1,,,,"pending"
+823,"Khyber PakhtunKhwa","Dir Upper","Muhammad zubair khan",2022-10-30 19:03:54,1,56,56,56,56,56,441,0.13,56,0,1,,,,"pending"
+824,"Khyber PakhtunKhwa","Dir Upper","Muhammad zubair khan",2022-10-31 11:42:04,1,75,75,75,75,75,390,0.19,75,0,1,,,,"approved"
+824,"Khyber PakhtunKhwa","Dir Upper","Muhammad zubair khan",2022-10-29 14:05:55,1,75,0,74,75,75,390,0.19,75,0,1,,,,"rejected"
+825,"Khyber PakhtunKhwa","Malakand","Syed Bilal Ahmad malakand",2022-11-01 17:24:06,1,83,83,83,77,77,640,0.12,77,6,1,,,,"approved"
+825,"Khyber PakhtunKhwa","Malakand","Syed Bilal Ahmad malakand",2022-11-01 00:32:37,2,201,81,81,193,112,640,0.3,193,8,2,,,,"rejected"
+826,"Khyber PakhtunKhwa","Malakand","Syed Bilal Ahmad malakand",2022-10-30 16:28:59,1,126,125,125,126,126,417,0.3,126,0,1,,,,"approved"
+827,"Khyber PakhtunKhwa","Malakand","Syed Bilal Ahmad malakand",2022-10-31 10:37:36,1,101,93,93,101,101,626,0.16,101,0,1,,,,"approved"
+827,"Khyber PakhtunKhwa","Malakand","Syed Bilal Ahmad malakand",2022-10-31 09:54:02,1,11,8,8,11,11,626,0.02,11,0,1,,,,"rejected"
+828,"Khyber PakhtunKhwa","Swat","Abbas Ahmad",2022-10-30 15:08:04,1,261,260,260,261,261,380,0.69,261,0,1,,,,"approved"
+828,"Khyber PakhtunKhwa","Swat","Abbas Ahmad",2022-10-29 11:58:05,1,158,152,152,155,155,380,0.41,157,1,1,,,,"rejected"
+829,"Khyber PakhtunKhwa","Swat","Abbas Ahmad",2022-10-31 10:02:06,1,131,120,120,125,125,292,0.43,125,6,1,,,,"hasIssues"
+830,"Khyber PakhtunKhwa","Swat","shuaib swat",2022-11-01 09:48:35,1,190,189,189,166,166,345,0.48,166,24,1,,,,"pending"
+831,"Khyber PakhtunKhwa","Swat","shuaib swat",2022-11-02 10:25:14,1,275,274,274,251,251,292,0.86,251,24,1,,,,"pending"
+832,"Khyber PakhtunKhwa","Swat","Tanveer Ahmad",2022-10-30 14:47:16,1,271,252,252,267,267,390,0.68,271,0,1,,,,"approved"
+832,"Khyber PakhtunKhwa","Swat","Tanveer Ahmad",2022-10-29 12:27:50,1,177,0,0,173,173,390,0.44,177,0,1,,,,"rejected"
+833,"Khyber PakhtunKhwa","Swat","Tanveer Ahmad",2022-10-31 11:58:51,1,221,219,219,221,221,378,0.58,221,0,1,,,,"approved"
+834,"Khyber PakhtunKhwa","Swat","Tanveer Ahmad",2022-11-01 10:52:06,1,133,133,133,87,87,443,0.2,88,45,1,,,,"pending"
+835,"Khyber PakhtunKhwa","Swat","Abbas Ahmad",2022-11-04 10:38:42,1,211,211,211,114,114,430,0.27,114,97,1,,,,"pending"
+836,"Khyber PakhtunKhwa","Swat","Abbas Ahmad",2022-11-01 10:56:58,1,300,290,290,248,248,300,0.83,248,52,1,,,,"pending"
+837,"Khyber PakhtunKhwa","Swat","shuaib swat",2022-10-30 13:12:07,1,230,230,230,230,230,305,0.75,230,0,1,,,,"approved"
+837,"Khyber PakhtunKhwa","Swat","shuaib swat",2022-10-29 12:51:09,1,89,86,86,89,89,305,0.29,89,0,1,,,,"rejected"
+838,"Khyber PakhtunKhwa","Swat","shuaib swat",2022-10-31 09:45:33,1,135,135,135,135,135,308,0.44,135,0,1,,,,"pending"
+839,"Khyber PakhtunKhwa","Swat","Abbas Ahmad",2022-11-02 10:25:59,1,218,196,196,169,170,480,0.35,169,49,1,,,,"pending"
+84,"AJK","Muzaffarabad","Abubakar Muzaffarabad",2022-10-31 09:12:26,2,339,261,261,318,318,633,1.01,318,21,1,2,"Upeer Jalalabad",316,"approved"
+840,"Khyber PakhtunKhwa","Swat","Abbas Ahmad",2022-11-03 10:39:04,1,247,246,246,112,112,436,0.26,112,135,1,,,,"pending"
+841,"Khyber PakhtunKhwa","Swat","shuaib swat",2022-11-03 09:31:16,1,250,249,249,234,234,365,0.64,234,16,1,,,,"pending"
+842,"Khyber PakhtunKhwa","Swat","shuaib swat",2022-11-04 09:20:56,1,184,183,183,167,167,385,0.43,167,17,1,,,,"pending"
+843,"Khyber PakhtunKhwa","Swat","wahab shab",2022-10-29 13:56:31,1,154,3,3,142,142,286,0.5,144,10,1,,,,"pending"
+844,"Khyber PakhtunKhwa","Swat","wahab shab",2022-10-30 18:33:51,2,329,327,327,329,329,329,1,329,0,1,,,,"pending"
+846,"Khyber PakhtunKhwa","Swat","wahab shab",2022-10-31 21:05:25,2,180,128,128,157,157,367,0.43,158,22,1,,,,"pending"
+847,"Khyber PakhtunKhwa","Swat","wasim Akram Swat",2022-10-30 14:56:07,1,250,196,196,247,247,250,0.99,247,3,1,,,,"approved"
+847,"Khyber PakhtunKhwa","Swat","wasim Akram Swat",2022-10-29 11:20:28,1,226,139,139,223,223,250,0.89,223,3,1,,,,"rejected"
+848,"Khyber PakhtunKhwa","Swat","wasim Akram Swat",2022-10-30 16:51:51,2,210,143,143,210,210,283,0.74,210,0,1,,,,"pending"
+849,"Khyber PakhtunKhwa","Swat","akhtar yousaf swat",2022-10-29 12:45:36,1,80,77,77,80,80,199,0.4,80,0,1,,,,"approved"
+850,"Khyber PakhtunKhwa","Swat","akhtar yousaf swat",2022-11-01 11:46:24,1,210,198,198,210,210,356,0.59,210,0,1,,,,"pending"
+851,"Khyber PakhtunKhwa","Swat","akhtar yousaf swat",2022-10-30 12:23:12,1,146,79,79,146,146,339,0.43,146,0,1,,,,"pending"
+852,"Khyber PakhtunKhwa","Swat","wasim Akram Swat",2022-11-01 10:23:10,1,106,83,83,72,72,295,0.24,72,34,1,,,,"pending"
+853,"Khyber PakhtunKhwa","Swat","wasim Akram Swat",2022-11-02 12:39:47,1,138,90,90,102,102,280,0.36,102,36,1,,,,"pending"
+854,"Khyber PakhtunKhwa","Swat","Tanveer Ahmad",2022-11-02 11:42:51,1,172,171,171,105,105,498,0.21,105,67,1,,,,"pending"
+855,"Khyber PakhtunKhwa","Swat","Tanveer Ahmad",2022-11-03 10:25:11,1,162,159,159,111,111,306,0.36,111,51,1,,,,"pending"
+856,"Khyber PakhtunKhwa","Swat","Tanveer Ahmad",2022-11-04 09:24:28,1,208,179,179,123,123,324,0.38,124,84,1,,,,"pending"
+857,"Khyber PakhtunKhwa","Swat","wasim Akram Swat",2022-11-03 09:46:29,1,153,123,123,86,86,265,0.32,86,67,1,,,,"pending"
+858,"Khyber PakhtunKhwa","Swat","wasim Akram Swat",2022-11-04 10:35:17,1,339,303,303,200,200,270,0.74,200,139,1,,,,"pending"
+859,"Khyber PakhtunKhwa","Swat","akhtar yousaf swat",2022-11-03 16:18:52,1,147,120,120,140,140,335,0.42,140,7,1,,,,"pending"
+860,"Khyber PakhtunKhwa","Swat","akhtar yousaf swat",2022-11-02 13:34:33,1,144,101,101,107,107,355,0.3,107,37,1,,,,"pending"
+861,"Khyber PakhtunKhwa","Swat","wahab shah",2022-11-04 19:43:44,1,1,1,1,1,1,396,0,1,0,1,,,,"pending"
+863,"Khyber PakhtunKhwa","Swat","akhtar yousaf swat",2022-11-04 13:33:51,1,137,136,136,137,137,297,0.46,137,0,1,,,,"pending"
+865,"Khyber PakhtunKhwa","Mardan","Muhammad Muneeb mardan",2022-10-29 16:10:36,1,131,112,112,131,131,430,0.3,131,0,1,,,,"pending"
+866,"Khyber PakhtunKhwa","Mardan","Muhammad Muneeb mardan",2022-10-31 14:42:46,1,165,144,144,142,142,606,0.23,142,23,1,,,,"pending"
+867,"Khyber PakhtunKhwa","Mardan","Muhammad Muneeb mardan",2022-10-30 15:14:50,1,148,125,125,130,130,415,0.31,133,15,1,,,,"pending"
+868,"Khyber PakhtunKhwa","Mardan","Muhammad Muneeb mardan",2022-11-01 13:48:40,1,132,94,94,122,122,330,0.37,123,9,1,,,,"pending"
+869,"Khyber PakhtunKhwa","Mardan","Muhammad Muneeb mardan",2022-11-02 13:06:19,1,137,116,116,129,129,405,0.32,129,8,1,,,,"pending"
+870,"Khyber PakhtunKhwa","Mardan","Muhammad Muneeb mardan",2022-11-03 14:54:15,1,228,196,196,207,207,656,0.32,207,21,1,,,,"pending"
+871,"Khyber PakhtunKhwa","Mardan","Haris Akbar Mardan",2022-10-29 14:14:13,1,127,125,125,127,127,497,0.26,127,0,1,,,,"approved"
+872,"Khyber PakhtunKhwa","Mardan","Haris Akbar Mardan",2022-10-30 15:12:48,1,114,114,114,114,114,409,0.28,114,0,1,,,,"approved"
+872,"Khyber PakhtunKhwa","Mardan","Haris Akbar Mardan",2022-11-04 15:42:35,1,128,128,128,121,121,409,0.3,121,7,1,,,,"pending"
+873,"Khyber PakhtunKhwa","Mardan","Haris Akbar Mardan",2022-10-31 23:22:41,1,267,263,263,267,267,465,0.57,267,0,1,,,,"pending"
+874,"Khyber PakhtunKhwa","Mardan","Haris Akbar Mardan",2022-11-01 09:50:30,1,250,248,248,233,233,370,0.63,240,10,1,,,,"pending"
+875,"Khyber PakhtunKhwa","Mardan","Haris Akbar Mardan",2022-11-02 09:59:23,1,142,132,132,130,130,190,0.68,130,12,1,,,,"pending"
+876,"Khyber PakhtunKhwa","Mardan","Haris Akbar Mardan",2022-11-03 09:46:35,1,172,144,144,158,158,625,0.25,159,13,1,,,,"pending"
+878,"Khyber PakhtunKhwa","Mardan","Amjad mardan",2022-11-03 14:15:58,1,181,159,159,155,155,1559,0.1,158,23,1,,,,"pending"
+879,"Khyber PakhtunKhwa","Mardan","Amjad mardan",2022-11-04 13:25:12,1,184,179,179,163,163,1724,0.09,167,17,1,,,,"pending"
+880,"Khyber PakhtunKhwa","Mardan","Amjad mardan",2022-11-01 12:50:57,1,195,195,195,191,191,520,0.37,193,2,1,,,,"approved"
+880,"Khyber PakhtunKhwa","Mardan","Amjad mardan",2022-10-29 11:08:57,1,195,0,0,191,191,520,0.37,193,2,1,,,,"rejected"
+881,"Khyber PakhtunKhwa","Mardan","Amjad mardan",2022-10-31 09:20:04,1,148,148,148,127,127,405,0.31,128,20,1,,,,"pending"
+882,"Khyber PakhtunKhwa","Mardan","Amjad mardan",2022-10-30 10:45:06,1,215,209,209,196,196,479,0.41,197,18,1,,,,"pending"
+883,"Khyber PakhtunKhwa","Mardan","Amin khan",2022-10-30 09:53:11,1,153,153,153,153,153,444,0.34,153,0,1,,,,"pending"
+884,"Khyber PakhtunKhwa","Mardan","Amin khan",2022-10-31 14:40:07,1,208,207,207,153,153,340,0.45,155,53,1,,,,"pending"
+885,"Khyber PakhtunKhwa","Mardan","Amin khan",2022-11-01 14:12:46,2,125,124,124,112,112,534,0.21,112,13,1,,,,"pending"
+886,"Khyber PakhtunKhwa","Mardan","Amin khan",2022-11-01 10:48:24,1,168,167,167,130,130,200,0.65,132,36,1,,,,"pending"
+887,"Khyber PakhtunKhwa","Mardan","Amin khan",2022-11-03 12:24:55,1,131,128,128,105,105,471,0.22,112,19,1,,,,"pending"
+888,"Khyber PakhtunKhwa","Mardan","Amin khan",2022-11-04 11:21:02,1,133,124,124,113,113,560,0.2,114,19,1,,,,"pending"
+889,"Khyber PakhtunKhwa","Mardan","Babar shah mardan",2022-10-30 08:32:38,1,214,211,211,145,145,310,0.47,145,69,1,,,,"approved"
+889,"Khyber PakhtunKhwa","Mardan","Babar shah mardan",2022-10-29 12:53:48,1,148,0,0,146,146,310,0.47,146,2,1,,,,"rejected"
+891,"Khyber PakhtunKhwa","Mardan","Babar shah mardan",2022-10-31 10:48:14,1,124,124,124,106,106,370,0.29,106,18,1,,,,"approved"
+892,"Khyber PakhtunKhwa","Mardan","Babar shah mardan",2022-11-01 09:57:30,1,266,261,261,205,205,399,0.51,205,61,1,,,,"pending"
+893,"Khyber PakhtunKhwa","Mardan","Babar shah mardan",2022-11-02 08:04:36,1,118,111,111,84,84,300,0.28,84,34,1,,,,"pending"
+894,"Khyber PakhtunKhwa","Mardan","Babar shah mardan",2022-11-03 09:36:00,1,71,68,68,51,51,527,0.1,51,20,1,,,,"pending"
+895,"Khyber PakhtunKhwa","Swabi","ASIF KHAN SWABI",2022-10-30 14:53:48,1,188,181,181,185,185,567,0.69,185,3,1,2,"Kashmiryan 2",267,"approved"
+895,"Khyber PakhtunKhwa","Swabi","ASIF KHAN SWABI",2022-10-29 16:23:34,1,110,100,100,101,101,567,0.38,101,9,1,2,"Kashmiryan 2",267,"rejected"
+896,"Khyber PakhtunKhwa","Swabi","ASIF KHAN SWABI",2022-10-31 13:43:17,2,361,327,327,332,332,865,0.38,343,18,1,,,,"approved"
+897,"Khyber PakhtunKhwa","Swabi","ASIF KHAN SWABI",2022-11-02 16:37:48,2,287,244,244,251,251,572,0.44,262,25,1,,,,"pending"
+898,"Khyber PakhtunKhwa","Swabi","ASIF KHAN SWABI ",2022-11-04 14:51:45,1,76,73,73,56,56,522,0.11,57,19,1,,,,"pending"
+90,"AJK","Neelum","Raja Aashan.Neelum",2022-10-29 10:05:16,2,274,219,219,205,205,233,0.88,205,69,1,,,,"approved"
+901,"Khyber PakhtunKhwa","Swabi","tauseef ahmad swabi",2022-10-29 11:57:24,2,289,266,266,263,263,711,0.37,263,26,1,,,,"pending"
+902,"Khyber PakhtunKhwa","Swabi","tauseef ahmad swabi",2022-10-31 16:31:33,2,425,366,366,321,321,1030,0.31,321,104,1,,,,"pending"
+903,"Khyber PakhtunKhwa","Swabi","tauseef ahmad swabi",2022-11-02 11:33:18,1,172,152,152,125,125,560,0.22,127,45,1,,,,"pending"
+904,"Khyber PakhtunKhwa","Swabi","tauseef ahmad swabi",2022-11-02 20:36:00,2,215,179,179,167,167,615,0.27,169,46,1,,,,"pending"
+905,"Khyber PakhtunKhwa","Swabi","tauseef ahmad swabi",2022-11-04 14:43:50,1,109,106,106,91,91,586,0.16,91,18,1,,,,"pending"
+907,"Khyber PakhtunKhwa","Swabi","Shah saud",2022-10-29 19:53:57,2,298,263,263,260,260,610,0.9,262,36,1,1,"Dagai lar pir tab 1",290,"approved"
+908,"Khyber PakhtunKhwa","Swabi","Shah saud",2022-10-31 09:13:43,2,436,414,414,326,326,410,0.8,335,101,1,,,,"pending"
+909,"Khyber PakhtunKhwa","Swabi","Shah saud",2022-11-02 17:55:32,1,180,175,175,138,138,533,0.26,148,32,1,,,,"pending"
 91,"AJK","Neelum","junaid amjad. Neelum",2022-10-29 10:33:38,1,59,46,44,55,53,113,0.49,55,4,2,,,,"rejected"
-913,"Khyber PakhtunKhwa","Charsadda","Amir Khan Charsadda",2022-10-29 10:47:05,1,143,1,1,140,140,457,0.31,142,1,1,,,,
-914,"Khyber PakhtunKhwa","Charsadda","Amir Khan Charsadda",2022-10-30 09:49:45,1,164,148,148,156,156,3679,0.04,164,0,1,,,,
-915,"Khyber PakhtunKhwa","Charsadda","Amir Khan Charsadda",2022-10-31 12:46:04,1,195,177,177,194,194,765,0.25,195,0,1,,,,
-920,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-10-29 12:00:39,1,340,1,1,282,282,680,0.83,289,51,1,1,"Eida ga road",340,
-921,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-10-30 08:40:22,1,164,157,157,115,115,780,0.31,124,40,1,2,"Akhoon abad",376,
-922,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-10-31 10:15:05,1,121,109,109,96,96,410,0.23,105,16,1,,,,
-923,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-11-01 08:37:23,1,211,207,207,160,160,450,0.36,168,43,1,,,,
-926,"Khyber PakhtunKhwa","Peshawar","Syed Sartaj Ali Shah",2022-10-29 11:53:58,1,103,95,95,97,97,850,0.11,97,6,1,,,,
-927,"Khyber PakhtunKhwa","Peshawar","Syed Sartaj Ali Shah",2022-10-30 09:47:42,1,92,91,91,56,57,777,0.07,56,36,1,,,,
-928,"Khyber PakhtunKhwa","Peshawar","Syed Sartaj Ali Shah",2022-10-31 11:02:02,1,255,244,244,178,178,1343,0.68,179,76,1,2,"Asad Awar 2",260,
-932,"Khyber PakhtunKhwa","Peshawar","Qazi Shahab Ud din",2022-10-29 12:10:10,2,275,114,114,183,183,1756,0.57,189,86,1,2,"Sajc2",320,
-933,"Khyber PakhtunKhwa","Peshawar","Qazi Shahab Ud din",2022-10-30 12:45:46,1,151,144,144,121,121,2865,0.52,123,28,1,7,"Ac7",233,
-934,"Khyber PakhtunKhwa","Peshawar","Qazi Shahab Ud din",2022-10-30 17:45:14,2,182,181,181,148,148,2885,0.64,150,32,1,2,"Ga2",230,
-938,"Khyber PakhtunKhwa","Peshawar","Aamir Khan Peshawar",2022-10-29 10:07:44,1,81,72,72,78,78,420,0.19,78,3,1,,,,
-939,"Khyber PakhtunKhwa","Peshawar","Mohammad Sajid",2022-10-31 10:42:37,1,140,139,139,132,132,5362,0.02,132,8,1,,,,
-944,"Khyber PakhtunKhwa","Peshawar","Kaleem Ullah Peshawar",2022-10-29 15:14:12,1,115,115,115,114,114,545,0.46,115,0,1,1,"Sabzali Town",250,
-950,"Khyber PakhtunKhwa","Peshawar","MUHAMMAD UMAIR PESHAWAR",2022-10-30 08:30:45,1,135,99,99,111,111,631,0.18,116,19,1,,,,
-951,"Khyber PakhtunKhwa","Peshawar","Arshad khan peshawar",2022-10-30 09:54:24,2,357,344,344,281,281,3277,1,283,74,1,1,"A",280,
-96,"AJK","Neelum","junaid amjad. Neelum",2022-10-30 12:22:32,2,302,269,269,258,258,300,0.86,258,44,1,,,,
-99,"AJK","Bagh","Syed inzmam gardezi",2022-10-29 15:25:53,2,293,19,19,292,292,288,1.01,292,1,1,,,,
+910,"Khyber PakhtunKhwa","Swabi","Shah saud",2022-11-03 13:47:06,1,173,163,163,113,113,430,0.26,114,59,1,,,,"pending"
+911,"Khyber PakhtunKhwa","Swabi","Shah saud",2022-11-04 13:40:25,1,234,225,225,185,185,430,0.43,190,44,1,,,,"pending"
+913,"Khyber PakhtunKhwa","Charsadda","Amir Khan Charsadda",2022-10-29 10:47:05,1,143,1,1,140,140,457,0.31,142,1,1,,,,"pending"
+914,"Khyber PakhtunKhwa","Charsadda","Amir Khan Charsadda",2022-10-30 09:49:45,1,164,148,148,156,156,3679,0.04,164,0,1,,,,"pending"
+915,"Khyber PakhtunKhwa","Charsadda","Amir Khan Charsadda",2022-10-31 12:46:04,1,195,177,177,194,194,765,0.25,195,0,1,,,,"approved"
+916,"Khyber PakhtunKhwa","Charsadda","Amir Khan Charsadda",2022-11-01 10:19:02,1,152,121,121,132,132,488,0.27,132,20,1,,,,"approved"
+917,"Khyber PakhtunKhwa","Charsadda","Amir Khan Charsadda",2022-11-02 10:23:12,1,187,175,175,161,161,569,0.28,171,16,1,,,,"pending"
+92,"AJK","Neelum","Raja Aashan.Neelum",2022-10-30 19:45:05,3,429,325,325,345,345,674,1.01,345,84,1,1,"Salkhala",340,"approved"
+920,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-11-04 16:20:07,1,340,308,308,266,266,680,0.78,280,60,1,2,"Eid ga road",340,"pending"
+920,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-10-29 12:00:39,1,340,0,0,282,282,680,0.83,289,51,1,2,"Eid ga road",340,"rejected"
+921,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-10-30 08:40:22,1,164,157,157,115,115,780,0.31,124,40,1,2,"Akhoon abad",376,"pending"
+922,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-10-31 10:15:05,1,121,109,109,96,96,410,0.23,105,16,1,,,,"pending"
+923,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-11-01 08:37:23,1,211,207,207,160,160,450,0.36,168,43,1,,,,"pending"
+924,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-11-02 09:13:05,1,282,264,264,236,236,558,0.85,248,34,1,1,"Dagi khel",279,"pending"
+925,"Khyber PakhtunKhwa","Nowshera ","saeed ullah nowshera",2022-11-03 09:45:47,1,335,292,292,297,297,716,0.83,307,28,1,2,"Khan sher garhi",358,"pending"
+926,"Khyber PakhtunKhwa","Peshawar","Syed Sartaj Ali Shah",2022-10-29 11:53:58,1,103,95,95,97,97,850,0.11,97,6,1,,,,"pending"
+927,"Khyber PakhtunKhwa","Peshawar","Syed Sartaj Ali Shah",2022-10-30 09:47:42,1,92,91,91,56,57,777,0.07,56,36,1,,,,"pending"
+928,"Khyber PakhtunKhwa","Peshawar","Syed Sartaj Ali Shah",2022-10-31 11:02:02,1,255,244,244,178,178,1343,0.68,179,76,1,2,"Asad Awar 2",260,"pending"
+929,"Khyber PakhtunKhwa","Peshawar","Syed Sartaj Ali Shah",2022-11-01 11:29:19,1,92,92,92,58,58,384,0.15,59,33,1,,,,"pending"
+93,"AJK","Neelum","junaid amjad. Neelum",2022-11-01 10:59:08,2,473,396,396,373,373,416,0.9,373,100,1,,,,"pending"
+930,"Khyber PakhtunKhwa","Peshawar","Syed Sartaj Ali Shah",2022-11-02 11:14:27,1,319,316,316,260,260,484,1,266,53,1,2,"Pahari Pura Street#7",260,"pending"
+931,"Khyber PakhtunKhwa","Peshawar","Syed Sartaj Ali Shah",2022-11-03 11:13:42,1,295,243,243,263,263,6307,0.75,276,19,1,1,"Latif Abad 1",352,"pending"
+932,"Khyber PakhtunKhwa","Peshawar","Qazi Shahab Ud din",2022-10-29 12:10:10,2,275,114,114,183,183,1756,0.57,189,86,1,2,"Sajc2",320,"pending"
+933,"Khyber PakhtunKhwa","Peshawar","Qazi Shahab Ud din",2022-10-30 12:45:46,1,151,144,144,121,121,2865,0.52,123,28,1,7,"Ac7",233,"pending"
+934,"Khyber PakhtunKhwa","Peshawar","Qazi Shahab Ud din",2022-10-30 17:45:14,2,182,181,181,148,148,2885,0.64,150,32,1,2,"Ga2",230,"pending"
+935,"Khyber PakhtunKhwa","Peshawar","Qazi Shahab Ud din",2022-11-01 12:07:03,1,188,187,187,146,146,5014,0.61,151,37,1,6,"Fa6",240,"approved"
+936,"Khyber PakhtunKhwa","Peshawar","Qazi Shahab Ud din",2022-11-02 10:46:26,1,173,173,173,149,149,425,0.74,153,20,1,1,"Smt1",200,"pending"
+937,"Khyber PakhtunKhwa","Peshawar","Qazi Shahab Ud din",2022-11-03 09:16:48,1,190,190,190,171,171,1053,0.71,175,15,1,4,"Sja4",240,"pending"
+938,"Khyber PakhtunKhwa","Peshawar","Aamir Khan Peshawar",2022-10-29 10:07:44,1,81,72,72,78,78,420,0.19,78,3,1,,,,"pending"
+939,"Khyber PakhtunKhwa","Peshawar","Mohammad Sajid",2022-10-31 10:42:37,1,140,139,139,132,132,5362,0.02,132,8,1,,,,"pending"
+94,"AJK","Neelum","junaid amjad. Neelum",2022-11-03 09:55:34,2,150,136,136,101,101,92,1.1,101,49,1,,,,"pending"
+940,"Khyber PakhtunKhwa","Peshawar","Mohammad Sajid",2022-11-01 09:45:34,1,126,121,121,106,107,772,0.14,106,20,1,,,,"pending"
+941,"Khyber PakhtunKhwa","Peshawar","Mohammad Sajid",2022-11-02 09:06:47,1,204,203,203,153,153,6735,0.02,153,51,1,,,,"pending"
+942,"Khyber PakhtunKhwa","Peshawar","Mohammad Sajid",2022-11-03 09:21:40,1,119,119,119,95,96,3760,0.03,95,24,1,,,,"pending"
+943,"Khyber PakhtunKhwa","Peshawar","Mohammad Sajid",2022-11-04 09:13:30,1,101,99,99,70,70,625,0.11,70,31,1,,,,"pending"
+944,"Khyber PakhtunKhwa","Peshawar","Kaleem Ullah Peshawar",2022-10-29 15:14:12,1,115,115,115,114,114,545,0.46,115,0,1,1,"Sabzali Town",250,"pending"
+945,"Khyber PakhtunKhwa","Peshawar","Javed Sattar Peshawar",2022-10-31 12:20:52,2,402,344,344,314,315,4028,0.78,317,85,1,1,"P1",402,"approved"
+946,"Khyber PakhtunKhwa","Peshawar","Javed Sattar Peshawar",2022-11-02 10:00:57,1,208,188,188,150,150,3828,0.5,152,56,1,1,"Gharhi 1",300,"approved"
+947,"Khyber PakhtunKhwa","Peshawar","Javed Sattar Peshawar",2022-11-03 09:06:04,1,121,120,120,88,88,1928,0.27,88,33,1,3,"H3",328,"pending"
+948,"Khyber PakhtunKhwa","Peshawar","Javed Sattar Peshawar",2022-11-04 09:26:30,1,118,111,111,101,101,4154,0.24,101,17,1,5,"phase 6 5",415,"pending"
+95,"AJK","Neelum","Raja Aashan.Neelum",2022-11-01 21:36:31,3,380,310,310,298,298,298,1,298,82,1,,,,"pending"
+950,"Khyber PakhtunKhwa","Peshawar","MUHAMMAD UMAIR PESHAWAR",2022-10-30 08:30:45,1,135,99,99,111,111,631,0.18,116,19,1,,,,"pending"
+951,"Khyber PakhtunKhwa","Peshawar","Arshad khan peshawar",2022-10-30 09:54:24,2,357,344,344,281,281,3277,1,283,74,1,1,"A",280,"pending"
+952,"Khyber PakhtunKhwa","Peshawar","Arshad khan peshawar",2022-11-02 10:51:33,1,188,178,178,143,143,999,0.14,143,45,1,,,,"pending"
+953,"Khyber PakhtunKhwa","Peshawar","MUHAMMAD UMAIR PESHAWAR",2022-11-02 11:37:20,1,177,169,169,123,123,688,0.18,127,50,1,,,,"pending"
+955,"Khyber PakhtunKhwa","Peshawar","MUHAMMAD UMAIR PESHAWAR",2022-11-04 10:32:09,1,163,142,142,129,129,2100,0.06,143,20,1,,,,"pending"
+956,"Khyber PakhtunKhwa","Peshawar","MUHAMMAD UMAIR PESHAWAR",2022-10-31 09:52:32,2,353,320,320,295,295,1260,1.02,307,46,1,1,"Right side of main gate",290,"pending"
+957,"Khyber PakhtunKhwa","Peshawar","Arshad khan peshawar",2022-11-01 10:03:38,1,160,114,114,129,129,1805,0.07,129,31,1,,,,"pending"
+958,"Khyber PakhtunKhwa","Peshawar","Arshad khan peshawar",2022-11-03 09:34:59,1,216,198,198,173,173,500,0.35,173,43,1,,,,"pending"
+959,"Khyber PakhtunKhwa","Peshawar","MUHAMMAD UMAIR PESHAWAR",2022-11-03 10:44:00,1,189,129,129,167,167,2000,0.08,171,18,1,,,,"pending"
+96,"AJK","Neelum","junaid amjad. Neelum",2022-10-30 12:22:32,2,302,269,269,258,258,300,0.86,258,44,1,,,,"approved"
+960,"Khyber PakhtunKhwa","Peshawar","Arshad khan peshawar",2022-11-04 09:16:11,1,151,116,116,138,138,1160,0.12,143,8,1,,,,"pending"
+97,"AJK","Bagh","Syed khurram abbas",2022-11-01 16:14:50,4,314,313,313,250,250,391,0.64,252,62,1,,,,"pending"
+98,"AJK","Bagh","Syed inzmam gardezi",2022-10-31 08:28:01,2,212,152,152,211,211,473,0.45,212,0,1,,,,"pending"
+99,"AJK","Bagh","Syed inzmam gardezi",2022-10-29 15:25:53,2,293,19,19,292,292,288,1.01,292,1,1,,,,"rejected"
